@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Bernina Sans Regular';
+  src: url('/fonts/bernina_sans_regular-webfont.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bernina Sans';
+  src: url('/fonts/bernina_sans_narrow_light-webfont.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'VioletJWSerif-Regular';
+  src: url('/fonts/VioletJWSerif-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'orpheuspro';
+  src: url('/fonts/VioletJWSerif-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --palette-navy: #404D72;
+  --palette-terracotta: #99403D;
+  --palette-dark: #24140F;
+  --palette-dark2: #231510;
+  --palette-cream: #E3E5DB;
+  --palette-sand: #D8CDAF;
+  --palette-green: #2F5A47;
+  --palette-gold: #EBC766;
+  --palette-gray: #F6F6F6;
+}
+
+body {
+  font-family: 'Bernina Sans Regular', 'Bernina Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: #24140F;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, .font-serif-heading {
+  font-family: 'VioletJWSerif-Regular', 'orpheuspro', Georgia, serif;
+}
+
+/* Custom Scrollbar & Transitions */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Subtle image zoom on hover */
+.img-zoom-hover {
+  overflow: hidden;
+}
+.img-zoom-hover img {
+  transition: transform 0.4s ease;
+}
+.img-zoom-hover:hover img {
+  transform: scale(1.05);
+}
+input, textarea, select {
+  background-color: #ffffff !important;
+  color: #1f2937 !important;
+  color-scheme: light;
+}

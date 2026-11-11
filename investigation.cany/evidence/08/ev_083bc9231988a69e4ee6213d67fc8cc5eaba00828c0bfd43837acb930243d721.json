@@ -1,0 +1,61 @@
+{
+  "id": "ev_083bc9231988a69e4ee6213d67fc8cc5eaba00828c0bfd43837acb930243d721",
+  "subject": {
+    "kind": "website",
+    "name": "https://roamingcamelsmorocco.com/faq/"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "https://roamingcamelsmorocco.com/faq/",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/156.0.8078.80",
+    "facts": {
+      "elements": 923,
+      "forms": 2,
+      "height": 2788,
+      "images": 10,
+      "lang": "en-US",
+      "links": 59,
+      "ready": "complete",
+      "title": "FAQ - Roaming Camels Morocco",
+      "url": "https://roamingcamelsmorocco.com/faq/",
+      "width": 1425
+    },
+    "health": {
+      "errors": [],
+      "failed_requests": []
+    },
+    "title": "FAQ - Roaming Camels Morocco",
+    "url": "https://roamingcamelsmorocco.com/faq/"
+  },
+  "summary": "Opened https://roamingcamelsmorocco.com/faq/: \"FAQ - Roaming Camels Morocco\".",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://roamingcamelsmorocco.com/faq/"
+    }
+  ],
+  "links": []
+}

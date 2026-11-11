@@ -1,0 +1,2312 @@
+{
+  "id": "ev_3c041bb470b5af7fa1ae8be18c61aa6860c55a5a184f0910cff4eaf23003c5ee",
+  "subject": {
+    "kind": "website",
+    "name": "https://roamingcamelsmorocco.com/morocco-tour-finder/?gad_source=1&gad_campaignid=709053484&gbraid=0AAAAADOq5zDCPh5IacGnIQRXDYB2xDLA5"
+  },
+  "operation": "web_page_js_analyze",
+  "params": {
+    "endpoint": "http://127.0.0.1:9902",
+    "limit": 500,
+    "load_source_maps": true,
+    "offset": 0
+  },
+  "result": {
+    "api_operations": [],
+    "app_kind": "unknown",
+    "bundlers": [],
+    "edges": [
+      {
+        "from": "event:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#window:online",
+        "kind": "handled-by",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#e._onlineHandler@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#$@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#P@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#A@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#w@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#C@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#n@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#D@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#j@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En.load@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#c@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En.load@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#ln@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En.resetStatus@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#A@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#c@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#H@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#j@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#K@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#C@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#K@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#N@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#K@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#T@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#K@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#w@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#L@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#k@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#O@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#k@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Q@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#C@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Q@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#N@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Q@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#R@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Q@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#w@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#X@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#W@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#X@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#y@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IFRAME@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#$@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IFRAME@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#W@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IFRAME@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#y@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IMG@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#$@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IMG@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#D@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IMG@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#X@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.OBJECT@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#$@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.OBJECT@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#W@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.OBJECT@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#y@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.VIDEO@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#$@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.VIDEO@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#H@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.VIDEO@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#W@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.VIDEO@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#y@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#an@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#en@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#an@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#on@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#c@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#n@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#cn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#on@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#cn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#z@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#destroy@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#mn@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.IFRAME@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.OBJECT@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.VIDEO@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#H@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.VIDEO@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#fn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#A@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#fn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#U@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#hn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#mn@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#k@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#y@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#loadAll@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#hn@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#nn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#C@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#P@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#S@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#restoreAll@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#mn@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#rn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#M@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#rn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#R@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#rn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#T@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#sn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#D@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#sn@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#update@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#G@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#update@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#gn@1"
+      },
+      {
+        "from": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#update@1",
+        "kind": "calls",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#hn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "listens",
+        "to": "event:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#window:online"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#$@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#A@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#C@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#D@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En.load@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En.resetStatus@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#G@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#H@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#K@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#L@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#M@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#N@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#O@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#P@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Q@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#R@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#S@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#T@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#U@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#W@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#X@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IFRAME@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IMG@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.OBJECT@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.VIDEO@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#an@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#bn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#c@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#cn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#destroy@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.IFRAME@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.OBJECT@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.VIDEO@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#e._onlineHandler@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#en@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#fn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#gn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#hn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#j@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#k@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#l@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#ln@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#loadAll@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#mn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#n@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#nn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#on@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#pn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#restoreAll@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#rn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#sn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#tn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#un@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#update@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#vn@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#w@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#y@1"
+      },
+      {
+        "from": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "defines",
+        "to": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#z@1"
+      }
+    ],
+    "effects": [],
+    "endpoints": [],
+    "entry_points": {
+      "pages": [],
+      "preloads": [],
+      "renderers": [],
+      "workers": []
+    },
+    "exposed": [],
+    "graph_id": "ag_80caf3c739d181a52896784d73e99f30fd086023bcc402eceb9d88036340e4a7",
+    "input_format": "web",
+    "ipc": [],
+    "label": "https://roamingcamelsmorocco.com/morocco-tour-finder/?gad_source=1&gad_campaignid=709053484&gbraid=0AAAAADOq5zDCPh5IacGnIQRXDYB2xDLA5",
+    "limitations": [],
+    "modules": [
+      {
+        "bundle_modules": [],
+        "bundlers": [],
+        "bytes": 8892,
+        "chunk_ids": [],
+        "exports": {
+          "cjs": [],
+          "cjs_whole": "call",
+          "esm": []
+        },
+        "fingerprint": "71563d64a07497569c5ee6145403ea14ee3dc06e64b24b14c41e3a22306b6467",
+        "functions": [
+          "n",
+          "c",
+          "l",
+          "y",
+          "k",
+          "w",
+          "A",
+          "L",
+          "O",
+          "C",
+          "N",
+          "M",
+          "z",
+          "T",
+          "R",
+          "G",
+          "j",
+          "D",
+          "H",
+          "P",
+          "S",
+          "U",
+          "$",
+          "q",
+          "K",
+          "Q",
+          "W",
+          "X",
+          "Y.IMG",
+          "Y.IFRAME",
+          "Y.VIDEO",
+          "Y.OBJECT",
+          "nn",
+          "tn",
+          "en",
+          "on",
+          "an",
+          "rn",
+          "cn",
+          "ln",
+          "un",
+          "sn",
+          "dn.IFRAME",
+          "dn.VIDEO",
+          "dn.OBJECT",
+          "fn",
+          "gn",
+          "vn",
+          "bn",
+          "mn",
+          "pn",
+          "hn",
+          "En",
+          "e._onlineHandler",
+          "update",
+          "destroy",
+          "loadAll",
+          "restoreAll",
+          "En.load",
+          "En.resetStatus"
+        ],
+        "imports": [],
+        "kind": "script",
+        "parse_mode": "parsed",
+        "path": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown",
+        "sha256": "f40767552e5e94b2d5f9a65d7f640cfa7d225298023dbd682095e040809a3d1a",
+        "strings": [
+          "object",
+          "undefined",
+          "function",
+          "use strict",
+          "onscroll",
+          "IntersectionObserver",
+          "classList",
+          "p",
+          ".lazy",
+          "src",
+          "srcset",
+          "sizes",
+          "bg",
+          "bg-hidpi",
+          "bg-multi",
+          "bg-multi-hidpi",
+          "bg-set",
+          "poster",
+          "applied",
+          "loading",
+          "loaded",
+          "error",
+          "entered",
+          "exited",
+          "LazyLoad::Initialized",
+          "CustomEvent",
+          "llOriginalAttrs",
+          "data",
+          "native",
+          "data-",
+          "ll-status",
+          "data-ll-status",
+          " ",
+          "(^|\\s+)",
+          "(\\s+|$)",
+          "SOURCE",
+          "PICTURE",
+          "IMG",
+          "IFRAME",
+          "VIDEO",
+          "OBJECT",
+          "loadeddata",
+          "load",
+          "url(\"",
+          "\")",
+          "|",
+          "image-set(",
+          ")",
+          "-webkit-image-set(",
+          "px",
+          "online",
+          "lazy"
+        ]
+      }
+    ],
+    "modules_total": 1,
+    "native_modules": [],
+    "nodes": [
+      {
+        "id": "module:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "kind": "module",
+        "label": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.apply"
+          ],
+          "end": 441,
+          "end_line": 1,
+          "exported": false,
+          "kind": "declaration",
+          "params": [],
+          "parent": "<anonymous@1>",
+          "start": 233,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#n@1",
+        "kind": "function",
+        "label": "n",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n"
+          ],
+          "end": 1422,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 1393,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#c@1",
+        "kind": "function",
+        "label": "c",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "new n",
+            "new CustomEvent",
+            "document.createEvent",
+            "dispatchEvent"
+          ],
+          "end": 1640,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 1425,
+          "strings": [
+            "LazyLoad::Initialized",
+            "CustomEvent"
+          ]
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#l@1",
+        "kind": "function",
+        "label": "l",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.getAttribute"
+          ],
+          "end": 1833,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 1792,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#y@1",
+        "kind": "function",
+        "label": "y",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "y"
+          ],
+          "end": 1862,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 1836,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#k@1",
+        "kind": "function",
+        "label": "k",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 1983,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 1865,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#w@1",
+        "kind": "function",
+        "label": "w",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "w"
+          ],
+          "end": 2015,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 1986,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#A@1",
+        "kind": "function",
+        "label": "A",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "k"
+          ],
+          "end": 2049,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2018,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#L@1",
+        "kind": "function",
+        "label": "L",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "k"
+          ],
+          "end": 2080,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2052,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#O@1",
+        "kind": "function",
+        "label": "O",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n"
+          ],
+          "end": 2161,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e",
+            "i"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2095,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#C@1",
+        "kind": "function",
+        "label": "C",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.classList.add"
+          ],
+          "end": 2235,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2164,
+          "strings": [
+            " "
+          ]
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#N@1",
+        "kind": "function",
+        "label": "N",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.classList.remove",
+            "n.className.replace().replace().replace",
+            "n.className.replace().replace",
+            "n.className.replace",
+            "new RegExp"
+          ],
+          "end": 2387,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2238,
+          "strings": [
+            "(^|\\s+)",
+            "(\\s+|$)",
+            " "
+          ]
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#M@1",
+        "kind": "function",
+        "label": "M",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 2423,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2390,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#z@1",
+        "kind": "function",
+        "label": "z",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "e.unobserve"
+          ],
+          "end": 2483,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2426,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#T@1",
+        "kind": "function",
+        "label": "T",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 2523,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2486,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#R@1",
+        "kind": "function",
+        "label": "R",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 2561,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2526,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#G@1",
+        "kind": "function",
+        "label": "G",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "e.push"
+          ],
+          "end": 2657,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2564,
+          "strings": [
+            "SOURCE"
+          ]
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#j@1",
+        "kind": "function",
+        "label": "j",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "j().forEach",
+            "j"
+          ],
+          "end": 2735,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2660,
+          "strings": [
+            "PICTURE"
+          ]
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#D@1",
+        "kind": "function",
+        "label": "D",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "j().forEach",
+            "j"
+          ],
+          "end": 2768,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2738,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#H@1",
+        "kind": "function",
+        "label": "H",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 2826,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2801,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#P@1",
+        "kind": "function",
+        "label": "P",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 2853,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2829,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#S@1",
+        "kind": "function",
+        "label": "S",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 2887,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2856,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#U@1",
+        "kind": "function",
+        "label": "U",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "P",
+            "t.forEach"
+          ],
+          "end": 2980,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2890,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#$@1",
+        "kind": "function",
+        "label": "$",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "P",
+            "S",
+            "t.forEach"
+          ],
+          "end": 3115,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 2983,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#q@1",
+        "kind": "function",
+        "label": "q",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "N",
+            "w",
+            "T",
+            "C"
+          ],
+          "end": 3223,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3118,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#K@1",
+        "kind": "function",
+        "label": "K",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "N",
+            "w",
+            "R",
+            "C"
+          ],
+          "end": 3308,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3226,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Q@1",
+        "kind": "function",
+        "label": "Q",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.setAttribute"
+          ],
+          "end": 3350,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3311,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#W@1",
+        "kind": "function",
+        "label": "W",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "W",
+            "y"
+          ],
+          "end": 3441,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3353,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#X@1",
+        "kind": "function",
+        "label": "X",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "D",
+            "$",
+            "X"
+          ],
+          "end": 3511,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3449,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IMG@1",
+        "kind": "function",
+        "label": "Y.IMG",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "$",
+            "W",
+            "y"
+          ],
+          "end": 3563,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3519,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.IFRAME@1",
+        "kind": "function",
+        "label": "Y.IFRAME",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "H",
+            "$",
+            "W",
+            "y",
+            "n.load"
+          ],
+          "end": 3699,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3570,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.VIDEO@1",
+        "kind": "function",
+        "label": "Y.VIDEO",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "$",
+            "W",
+            "y"
+          ],
+          "end": 3751,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3707,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#Y.OBJECT@1",
+        "kind": "function",
+        "label": "Y.OBJECT",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "C"
+          ],
+          "end": 3914,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3792,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#nn@1",
+        "kind": "function",
+        "label": "nn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.addEventListener"
+          ],
+          "end": 3976,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3918,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#tn@1",
+        "kind": "function",
+        "label": "tn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.removeEventListener"
+          ],
+          "end": 4023,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 3980,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#en@1",
+        "kind": "function",
+        "label": "en",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 4060,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 4027,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#on@1",
+        "kind": "function",
+        "label": "on",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "on",
+            "en"
+          ],
+          "end": 4163,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 4064,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#an@1",
+        "kind": "function",
+        "label": "an",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "R",
+            "M",
+            "T"
+          ],
+          "end": 4318,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 4167,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#rn@1",
+        "kind": "function",
+        "label": "rn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "z",
+            "on"
+          ],
+          "end": 4769,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 4322,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#cn@1",
+        "kind": "function",
+        "label": "cn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 5699,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 4773,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#ln@1",
+        "kind": "function",
+        "label": "ln",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.removeAttribute"
+          ],
+          "end": 5778,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 5703,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#un@1",
+        "kind": "function",
+        "label": "un",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "D",
+            "q"
+          ],
+          "end": 5828,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 5782,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#sn@1",
+        "kind": "function",
+        "label": "sn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "q"
+          ],
+          "end": 5866,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 5847,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.IFRAME@1",
+        "kind": "function",
+        "label": "dn.IFRAME",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "H",
+            "q",
+            "n.load"
+          ],
+          "end": 5928,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 5873,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.VIDEO@1",
+        "kind": "function",
+        "label": "dn.VIDEO",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "q"
+          ],
+          "end": 5955,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 5936,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#dn.OBJECT@1",
+        "kind": "function",
+        "label": "dn.OBJECT",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "A",
+            "U"
+          ],
+          "end": 6264,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 5960,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#fn@1",
+        "kind": "function",
+        "label": "fn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 6368,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 6296,
+          "strings": [
+            "loading"
+          ]
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#gn@1",
+        "kind": "function",
+        "label": "gn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.forEach"
+          ],
+          "end": 7023,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 6372,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#vn@1",
+        "kind": "function",
+        "label": "vn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "Array.prototype.slice.call"
+          ],
+          "end": 7076,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 7027,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#bn@1",
+        "kind": "function",
+        "label": "bn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "n.container.querySelectorAll"
+          ],
+          "end": 7149,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 7080,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#mn@1",
+        "kind": "function",
+        "label": "mn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 7204,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 7153,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#pn@1",
+        "kind": "function",
+        "label": "pn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "mn"
+          ],
+          "end": 7275,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 7208,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#hn@1",
+        "kind": "function",
+        "label": "hn",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "c",
+            "this.update"
+          ],
+          "end": 7787,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "e"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 7279,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En@1",
+        "kind": "function",
+        "label": "En",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [],
+          "end": 7710,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [],
+          "parent": "<anonymous@1>",
+          "start": 7586,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#e._onlineHandler@1",
+        "kind": "function",
+        "label": "e._onlineHandler",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "hn",
+            "G",
+            "gn",
+            "this.loadAll"
+          ],
+          "end": 8230,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 7816,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#update@1",
+        "kind": "function",
+        "label": "update",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "this._observer.disconnect",
+            "removeEventListener",
+            "mn().forEach",
+            "mn"
+          ],
+          "end": 8522,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [],
+          "parent": "<anonymous@1>",
+          "start": 8239,
+          "strings": [
+            "online"
+          ]
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#destroy@1",
+        "kind": "function",
+        "label": "destroy",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "hn().forEach",
+            "hn"
+          ],
+          "end": 8620,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 8531,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#loadAll@1",
+        "kind": "function",
+        "label": "loadAll",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "mn().forEach",
+            "mn"
+          ],
+          "end": 8702,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [],
+          "parent": "<anonymous@1>",
+          "start": 8632,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#restoreAll@1",
+        "kind": "function",
+        "label": "restoreAll",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "c",
+            "ln"
+          ],
+          "end": 8745,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n",
+            "t"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 8712,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En.load@1",
+        "kind": "function",
+        "label": "En.load",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "attrs": {
+          "calls": [
+            "A"
+          ],
+          "end": 8778,
+          "end_line": 1,
+          "exported": false,
+          "kind": "expression",
+          "params": [
+            "n"
+          ],
+          "parent": "<anonymous@1>",
+          "start": 8761,
+          "strings": []
+        },
+        "id": "fn:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#En.resetStatus@1",
+        "kind": "function",
+        "label": "En.resetStatus",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      },
+      {
+        "id": "event:roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js#window:online",
+        "kind": "event",
+        "label": "window:online",
+        "line": 1,
+        "module": "roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "role": "unknown"
+      }
+    ],
+    "origin": "https://roamingcamelsmorocco.com/morocco-tour-finder/?gad_source=1&gad_campaignid=709053484&gbraid=0AAAAADOq5zDCPh5IacGnIQRXDYB2xDLA5",
+    "package": null,
+    "routes": [],
+    "scripts_seen": 2,
+    "source_maps": [],
+    "stats": {
+      "api_operations": 0,
+      "bundle_modules": 0,
+      "edges": 123,
+      "endpoints": 0,
+      "files": 2,
+      "functions": 60,
+      "ipc_channels": 0,
+      "listed": 2,
+      "modules": 1,
+      "nodes": 62,
+      "paired_channels": 0
+    },
+    "storage": [],
+    "vendors": [],
+    "windows": []
+  },
+  "summary": "Analysed 2 script(s) from https://roamingcamelsmorocco.com/morocco-tour-finder/?gad_source=1&gad_campaignid=709053484&gbraid=0AAAAADOq5zDCPh5IacGnIQRXDYB2xDLA5: 1 module(s), 0 endpoint(s), 0 route(s).",
+  "confidence": "derived",
+  "authority": "earlier-record",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "live_subset",
+      "message": "Only the scripts this live page had loaded during the window were analysed; lazily loaded chunks may be missing."
+    },
+    {
+      "code": "static_only",
+      "message": "Static reading only: code built at run time (eval, computed imports) is invisible."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://roamingcamelsmorocco.com/morocco-tour-finder/?gad_source=1&gad_campaignid=709053484&gbraid=0AAAAADOq5zDCPh5IacGnIQRXDYB2xDLA5"
+    }
+  ],
+  "links": []
+}

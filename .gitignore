@@ -1,0 +1,4 @@
+node_modules/
+
+# Local settings file containing an API key — never commit
+capture/routes/about/ison

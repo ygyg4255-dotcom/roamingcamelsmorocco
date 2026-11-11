@@ -1,0 +1,61 @@
+{
+  "id": "ev_3ede936bf740278bd59947ad77b662273fff53faf66ea2863f200c2b9eeb10e7",
+  "subject": {
+    "kind": "website",
+    "name": "https://roamingcamelsmorocco.com/morocco-travel-guide/"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/156.0.8078.80",
+    "facts": {
+      "elements": 1346,
+      "forms": 2,
+      "height": 13283,
+      "images": 29,
+      "lang": "en-US",
+      "links": 176,
+      "ready": "complete",
+      "title": "Morocco Travel Guide - Roaming Camels Morocco",
+      "url": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+      "width": 1425
+    },
+    "health": {
+      "errors": [],
+      "failed_requests": []
+    },
+    "title": "Morocco Travel Guide - Roaming Camels Morocco",
+    "url": "https://roamingcamelsmorocco.com/morocco-travel-guide/"
+  },
+  "summary": "Opened https://roamingcamelsmorocco.com/morocco-travel-guide/: \"Morocco Travel Guide - Roaming Camels Morocco\".",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://roamingcamelsmorocco.com/morocco-travel-guide/"
+    }
+  ],
+  "links": []
+}

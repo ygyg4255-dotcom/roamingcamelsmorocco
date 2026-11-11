@@ -1,0 +1,61 @@
+{
+  "id": "ev_b07cbdd07431debbbeb4922f67e33a5bb10ffcebe86e46e86b0f2f34ac32d814",
+  "subject": {
+    "kind": "website",
+    "name": "https://roamingcamelsmorocco.com/how-we-work/"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "https://roamingcamelsmorocco.com/how-we-work/",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/156.0.8078.80",
+    "facts": {
+      "elements": 988,
+      "forms": 2,
+      "height": 6090,
+      "images": 18,
+      "lang": "en-US",
+      "links": 61,
+      "ready": "complete",
+      "title": "How We Work - Roaming Camels Morocco",
+      "url": "https://roamingcamelsmorocco.com/how-we-work/",
+      "width": 1425
+    },
+    "health": {
+      "errors": [],
+      "failed_requests": []
+    },
+    "title": "How We Work - Roaming Camels Morocco",
+    "url": "https://roamingcamelsmorocco.com/how-we-work/"
+  },
+  "summary": "Opened https://roamingcamelsmorocco.com/how-we-work/: \"How We Work - Roaming Camels Morocco\".",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://roamingcamelsmorocco.com/how-we-work/"
+    }
+  ],
+  "links": []
+}

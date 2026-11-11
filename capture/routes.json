@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/morocco-travel-guide/",
+    "slug": "morocco-travel-guide",
+    "url": "https://roamingcamelsmorocco.com/morocco-travel-guide/"
+  },
+  {
+    "path": "/about/",
+    "slug": "about",
+    "url": "https://roamingcamelsmorocco.com/about/"
+  },
+  {
+    "path": "/how-we-work/",
+    "slug": "how-we-work",
+    "url": "https://roamingcamelsmorocco.com/how-we-work/"
+  },
+  {
+    "path": "/faq/",
+    "slug": "faq",
+    "url": "https://roamingcamelsmorocco.com/faq/"
+  }
+]

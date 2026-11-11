@@ -1,0 +1,5652 @@
+{
+  "a11y": {
+    "images_without_alt": 0,
+    "landmarks": {
+      "banner": 1,
+      "contentinfo": 1,
+      "form": 1,
+      "main": 1,
+      "navigation": 1
+    },
+    "lang": "en-US",
+    "unnamed_controls": 5,
+    "unnamed_examples": [
+      "a",
+      "a",
+      "a",
+      "a",
+      "a"
+    ]
+  },
+  "assets": {
+    "background_images": [
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Essaouira-Roaming-Camels-Morocco-Tour-2-min.jpg",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/bg-02.png",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Erfoud-Roaming-Camels-Morocco-Tour-min.jpg",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2019/07/Essaouira-Morocco-Roaming-Camels-min.jpg"
+    ],
+    "fonts": [
+      "https://fonts.googleapis.com/css",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/bernina_sans_regular-webfont.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/bernina_sans_narrow_light-webfont.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/noiretblanc_medium_bold-webfont.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/noiretblanc_med_bold_italic-webfont.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/custom-icons/morocco/font/morocco.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "https://roamingcamelsmorocco.com/wp-content/themes/restored316-journey/fonts/VioletJWSerif-Regular.woff2"
+    ],
+    "images": [
+      {
+        "alt": "Roaming Camels Morocco",
+        "h": 543,
+        "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Full-Logo-White-small.png",
+        "w": 1000
+      },
+      {
+        "alt": "Roaming Camels Morocco",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20543'%3E%3C/svg%3E",
+        "w": 276
+      },
+      {
+        "alt": "Intricately carved stone archway and wall with arabesque patterns in a Moorish architectural style, reminiscent of Moroc",
+        "h": 1800,
+        "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Extended-Tours.jpg",
+        "w": 1315
+      },
+      {
+        "alt": "Twilight descends on a quaint small town in Morocco as street lights cast a warm glow on the historic main street.",
+        "h": 750,
+        "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Fes-Roaming-Camels-Morocco-Tour-min-1.jpg",
+        "w": 1200
+      },
+      {
+        "alt": "A vibrant waterfall cascades into a lush basin in Morocco where visitors gather to enjoy the natural scenery.",
+        "h": 959,
+        "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Day-Trip-to-Ouzoud-Waterfalls-Roaming-Camels-Tours-min-1536x1024.jpg",
+        "w": 1439
+      },
+      {
+        "alt": "Coastal town in Morocco with historic fortifications overlooking a sandy beach with visitors.",
+        "h": 1707,
+        "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Roaming-Camels-moroccan-seaside-min.jpg",
+        "w": 1138
+      },
+      {
+        "alt": "A mountain village nestled in a lush valley with terraced fields, under the shadow of rugged peaks, typical of Morocco's",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20682'%3E%3C/svg%3E",
+        "w": 225
+      },
+      {
+        "alt": "A fortified village atop a hill in Morocco with a bridge leading to it, surrounded by desert vegetation under a clear bl",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20640'%3E%3C/svg%3E",
+        "w": 240
+      },
+      {
+        "alt": "Ornate columns with mosaic tilework in a traditional Moroccan architectural setting.",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E",
+        "w": 100
+      },
+      {
+        "alt": "An intricately patterned Moroccan arch entrance with a hanging lantern against a warm orange wall.",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E",
+        "w": 100
+      },
+      {
+        "alt": "An intricately patterned Moroccan arch entrance with a hanging lantern against a warm orange wall.",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20300'%3E%3C/svg%3E",
+        "w": 100
+      },
+      {
+        "alt": "",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20650%20912'%3E%3C/svg%3E",
+        "w": 107
+      },
+      {
+        "alt": "",
+        "h": 912,
+        "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/Logomark-White-small.png",
+        "w": 650
+      },
+      {
+        "alt": "",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20556'%3E%3C/svg%3E",
+        "w": 276
+      },
+      {
+        "alt": "Standard (3 star)",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20139'%3E%3C/svg%3E",
+        "w": 270
+      },
+      {
+        "alt": "Premium (4 star)",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20139'%3E%3C/svg%3E",
+        "w": 270
+      },
+      {
+        "alt": "Luxury (5 star)",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20139'%3E%3C/svg%3E",
+        "w": 270
+      },
+      {
+        "alt": "Loading",
+        "h": 150,
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2026'%3E%3C/svg%3E",
+        "w": 150
+      }
+    ],
+    "inline_scripts": 57,
+    "requests": [
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://fonts.googleapis.com/css"
+      },
+      {
+        "bytes": 194029,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Essaouira-Roaming-Camels-Morocco-Tour-2-min.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-header.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-image.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-navigation.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-advancedbtn.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/global.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/header.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/content.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/footer.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/frontend.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-image.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-81121.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/wpforms/assets/css/frontend/classic/wpforms-full.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css"
+      },
+      {
+        "bytes": 395,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css"
+      },
+      {
+        "bytes": 635,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-toggle.min.css"
+      },
+      {
+        "bytes": 3502,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-82633.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-81551.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-84042.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/igg3ghd.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/themes/restored316-journey/style.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/rankmath.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/montserrat.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css"
+      },
+      {
+        "bytes": 710,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/uploads/elementor/custom-icons/morocco/css/morocco.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css"
+      },
+      {
+        "bytes": 375044,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Extended-Tours.jpg"
+      },
+      {
+        "bytes": 114801,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Fes-Roaming-Camels-Morocco-Tour-min-1.jpg"
+      },
+      {
+        "bytes": 90078,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Day-Trip-to-Ouzoud-Waterfalls-Roaming-Camels-Tours-min-1536x1024.jpg"
+      },
+      {
+        "bytes": 189773,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Roaming-Camels-moroccan-seaside-min.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/bernina_sans_regular-webfont.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/bernina_sans_narrow_light-webfont.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://p.typekit.net/p.css"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2019/07/Essaouira-Morocco-Roaming-Camels-min.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/noiretblanc_medium_bold-webfont.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-pro/dist/elements/kadence-pro-sticky.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/wpforms/assets/pro/css/fields/layout.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "link",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/wpforms/assets/pro/css/fields/layout-screen-big.min.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+      },
+      {
+        "bytes": 255562,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/bg-02.png"
+      },
+      {
+        "bytes": 49353,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Erfoud-Roaming-Camels-Morocco-Tour-min.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/noiretblanc_med_bold_italic-webfont.woff2"
+      },
+      {
+        "bytes": 3552,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/custom-icons/morocco/font/morocco.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Full-Logo-White-small.png"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2024/10/Logomark-White-small.png"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Sahara-Desert-Roaming-Camels-Morocco-Tour-min.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://roamingcamelsmorocco.com/wp-content/themes/restored316-journey/fonts/VioletJWSerif-Regular.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Fes-Roaming-Camels-Morocco-Tour-min-1-768x480.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Extended-Tours-768x1051.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Day-Trip-to-Ouzoud-Waterfalls-Roaming-Camels-Tours-min-768x512.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Roaming-Camels-moroccan-seaside-min-768x1152.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Full-Logo-White-small-768x417.png"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Fes-Roaming-Camels-Morocco-Tour-min-1.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Extended-Tours.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Roaming-Camels-moroccan-seaside-min.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Day-Trip-to-Ouzoud-Waterfalls-Roaming-Camels-Tours-min-1536x1024.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Full-Logo-White-small.png"
+      }
+    ],
+    "scripts": [
+      "https://roamingcamelsmorocco.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+    ],
+    "stylesheets": [
+      "https://fonts.googleapis.com/css?family=Roboto%20Condensed%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic&display=swap",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-header.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-image.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-navigation.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-blocks/dist/style-blocks-advancedbtn.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.0",
+      "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.5.0",
+      "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/content.min.css?ver=1.5.0",
+      "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/footer.min.css?ver=1.5.0",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.35.1",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.35.1",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-81121.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.44.3",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/wpforms/assets/css/frontend/classic/wpforms-full.min.css?ver=1.10.1",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=4.0.5",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-82633.css?ver=1786341169",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-81551.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/elementor/css/post-84042.css?ver=1786339803",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/igg3ghd.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/themes/restored316-journey/style.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/themes/kadence/assets/css/rankmath.min.css?ver=1.5.0",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/uploads/elementor/custom-icons/morocco/css/morocco.css?ver=1786341170",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/igg3ghd.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/cache/min/1/wp-content/plugins/kadence-pro/dist/elements/kadence-pro-sticky.css?ver=1786339804",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/wpforms/assets/pro/css/fields/layout.min.css?ver=1.10.1",
+      "https://roamingcamelsmorocco.com/wp-content/plugins/wpforms/assets/pro/css/fields/layout-screen-big.min.css?ver=1.10.1"
+    ]
+  },
+  "breakpoints": [
+    {
+      "count": 1,
+      "px": 320,
+      "query": "max-width 320px"
+    },
+    {
+      "count": 1,
+      "px": 360,
+      "query": "max-width 360px"
+    },
+    {
+      "count": 1,
+      "px": 414,
+      "query": "max-width 414px"
+    },
+    {
+      "count": 2,
+      "px": 479,
+      "query": "max-width 479px"
+    },
+    {
+      "count": 4,
+      "px": 480,
+      "query": "max-width 480px"
+    },
+    {
+      "count": 1,
+      "px": 481,
+      "query": "min-width 481px"
+    },
+    {
+      "count": 1,
+      "px": 540,
+      "query": "max-width 540px"
+    },
+    {
+      "count": 1,
+      "px": 544,
+      "query": "max-width 544px"
+    },
+    {
+      "count": 1,
+      "px": 545,
+      "query": "min-width 545px"
+    },
+    {
+      "count": 1,
+      "px": 576,
+      "query": "min-width 576px"
+    },
+    {
+      "count": 7,
+      "px": 600,
+      "query": "max-width 600px"
+    },
+    {
+      "count": 1,
+      "px": 601,
+      "query": "min-width 601px"
+    },
+    {
+      "count": 2,
+      "px": 640,
+      "query": "max-width 640px"
+    },
+    {
+      "count": 1,
+      "px": 640,
+      "query": "min-width 640px"
+    },
+    {
+      "count": 52,
+      "px": 719,
+      "query": "max-width 719px"
+    },
+    {
+      "count": 44,
+      "px": 720,
+      "query": "min-width 720px"
+    },
+    {
+      "count": 67,
+      "px": 767,
+      "query": "max-width 767px"
+    },
+    {
+      "count": 2,
+      "px": 767,
+      "query": "min-width 767px"
+    },
+    {
+      "count": 18,
+      "px": 768,
+      "query": "min-width 768px"
+    },
+    {
+      "count": 8,
+      "px": 768,
+      "query": "max-width 768px"
+    },
+    {
+      "count": 1,
+      "px": 769,
+      "query": "min-width 769px"
+    },
+    {
+      "count": 4,
+      "px": 782,
+      "query": "max-width 782px"
+    },
+    {
+      "count": 3,
+      "px": 783,
+      "query": "min-width 783px"
+    },
+    {
+      "count": 1,
+      "px": 800,
+      "query": "max-width 800px"
+    }
+  ],
+  "design": {
+    "backgrounds": [
+      {
+        "count": 10,
+        "value": "#e3e5db"
+      },
+      {
+        "count": 8,
+        "value": "#ffffff"
+      },
+      {
+        "count": 4,
+        "value": "#72a3a41f"
+      },
+      {
+        "count": 2,
+        "value": "#eac76500"
+      },
+      {
+        "count": 2,
+        "value": "#404d72"
+      },
+      {
+        "count": 1,
+        "value": "#24140f"
+      },
+      {
+        "count": 1,
+        "value": "#e4e6db"
+      },
+      {
+        "count": 1,
+        "value": "#404d7200"
+      }
+    ],
+    "css_variables": {
+      "--direction-multiplier": "1",
+      "--e-global-color-kadence1": "var(--global-palette1)",
+      "--e-global-color-kadence10": "var(--global-palette10)",
+      "--e-global-color-kadence11": "var(--global-palette11)",
+      "--e-global-color-kadence12": "var(--global-palette12)",
+      "--e-global-color-kadence13": "var(--global-palette13)",
+      "--e-global-color-kadence14": "var(--global-palette14)",
+      "--e-global-color-kadence15": "var(--global-palette15)",
+      "--e-global-color-kadence2": "var(--global-palette2)",
+      "--e-global-color-kadence3": "var(--global-palette3)",
+      "--e-global-color-kadence4": "var(--global-palette4)",
+      "--e-global-color-kadence5": "var(--global-palette5)",
+      "--e-global-color-kadence6": "var(--global-palette6)",
+      "--e-global-color-kadence7": "var(--global-palette7)",
+      "--e-global-color-kadence8": "var(--global-palette8)",
+      "--e-global-color-kadence9": "var(--global-palette9)",
+      "--global-body-font-family": "'Bernina Sans Regular'",
+      "--global-boxed-spacing": "2rem",
+      "--global-calc-content-width": "calc(1290px - var(--global-content-edge-padding) - var(--global-content-edge-padding) )",
+      "--global-content-boxed-padding": "1.5rem",
+      "--global-content-edge-padding": "1.5rem",
+      "--global-content-narrow-width": "842px",
+      "--global-content-wide-width": "calc(1290px + 230px)",
+      "--global-content-width": "1290px",
+      "--global-display-fallback-font": "sans-serif",
+      "--global-edge-spacing": "1.5rem",
+      "--global-fallback-font": "sans-serif",
+      "--global-font-size-large": "clamp(1.75rem, 1.576rem + 0.543vw, 2rem)",
+      "--global-font-size-larger": "clamp(2rem, 1.6rem + 1vw, 2.5rem)",
+      "--global-font-size-medium": "clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem)",
+      "--global-font-size-small": "clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem)",
+      "--global-font-size-xxlarge": "clamp(2.25rem, 1.728rem + 1.63vw, 3rem)",
+      "--global-gray-400": "#CBD5E0",
+      "--global-gray-500": "#A0AEC0",
+      "--global-heading-font-family": "'Roboto Condensed', sans-serif",
+      "--global-kb-font-size-lg": "clamp(1.75rem, 1.576rem + 0.543vw, 2rem)",
+      "--global-kb-font-size-md": "clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem)",
+      "--global-kb-font-size-sm": "clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem)",
+      "--global-kb-font-size-xl": "clamp(2.25rem, 1.728rem + 1.63vw, 3rem)",
+      "--global-kb-font-size-xxl": "clamp(2.5rem, 1.456rem + 3.26vw, 4rem)",
+      "--global-kb-font-size-xxxl": "clamp(2.75rem, 0.489rem + 7.065vw, 6rem)",
+      "--global-lg-spacing": "2.5em",
+      "--global-md-spacing": "2rem",
+      "--global-palette-btn": "var(--global-palette4)",
+      "--global-palette-btn-bg": "var(--global-palette6)",
+      "--global-palette-btn-bg-hover": "#ebc766",
+      "--global-palette-btn-hover": "var(--global-palette4)",
+      "--global-palette-btn-sec": "var(--global-palette3)",
+      "--global-palette-btn-sec-bg": "var(--global-palette7)",
+      "--global-palette-btn-sec-bg-hover": "var(--global-palette2)",
+      "--global-palette-btn-sec-hover": "var(--global-palette9)",
+      "--global-palette-highlight": "var(--global-palette2)",
+      "--global-palette-highlight-alt": "var(--global-palette5)",
+      "--global-palette-highlight-alt2": "var(--global-palette9)",
+      "--global-palette1": "#404D72",
+      "--global-palette10": "oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%)",
+      "--global-palette11": "#13612e",
+      "--global-palette12": "#1159af",
+      "--global-palette13": "#b82105",
+      "--global-palette14": "#f7630c",
+      "--global-palette15": "#f5a524",
+      "--global-palette2": "#99403D",
+      "--global-palette3": "#231510",
+      "--global-palette4": "#24140F",
+      "--global-palette5": "#24140F",
+      "--global-palette6": "#E3E5DB",
+      "--global-palette7": "#D8CDAF",
+      "--global-palette8": "#E4E6DB",
+      "--global-palette9": "#ffffff",
+      "--global-palette9rgb": "255, 255, 255",
+      "--global-primary-nav-font-family": "'Bernina Sans'",
+      "--global-sm-spacing": "1.5rem",
+      "--global-xl-spacing": "3.5em",
+      "--global-xs-spacing": "1em",
+      "--global-xxl-spacing": "5rem",
+      "--page-title-display": "block",
+      "--uael-as-bg-light": "#f9f9f9",
+      "--uael-as-bg-lighter": "#f0f0f0",
+      "--uael-as-bg-white": "#fff",
+      "--uael-as-border-color": "#ddd",
+      "--uael-as-border-color-focus": "#D1D5DB",
+      "--uael-as-border-radius": "4px",
+      "--uael-as-font-size-base": "14px",
+      "--uael-as-font-size-medium": "16px",
+      "--uael-as-font-size-small": "12px",
+      "--uael-as-font-size-xsmall": "11px",
+      "--uael-as-primary-color": "#007cba",
+      "--uael-as-primary-hover": "#005a87",
+      "--uael-as-secondary-color": "#5124B3",
+      "--uael-as-text-color": "#333",
+      "--uael-as-text-dark": "#000",
+      "--uael-as-text-light": "#666",
+      "--uael-as-text-lighter": "#999",
+      "--uael-as-transition": "all 0.3s ease",
+      "--wp--preset--aspect-ratio--16-9": "16/9",
+      "--wp--preset--aspect-ratio--2-3": "2/3",
+      "--wp--preset--aspect-ratio--3-2": "3/2",
+      "--wp--preset--aspect-ratio--3-4": "3/4",
+      "--wp--preset--aspect-ratio--4-3": "4/3",
+      "--wp--preset--aspect-ratio--9-16": "9/16",
+      "--wp--preset--aspect-ratio--square": "1",
+      "--wp--preset--color--black": "#000000",
+      "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+      "--wp--preset--color--kb-palette-2": "#ebc766",
+      "--wp--preset--color--kb-palette-3": "#2e5947",
+      "--wp--preset--color--light-green-cyan": "#7bdcb5",
+      "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+      "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+      "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+      "--wp--preset--color--pale-pink": "#f78da7",
+      "--wp--preset--color--theme-palette-1": "var(--global-palette1)",
+      "--wp--preset--color--theme-palette-10": "var(--global-palette10)",
+      "--wp--preset--color--theme-palette-11": "var(--global-palette11)",
+      "--wp--preset--color--theme-palette-12": "var(--global-palette12)",
+      "--wp--preset--color--theme-palette-13": "var(--global-palette13)",
+      "--wp--preset--color--theme-palette-14": "var(--global-palette14)",
+      "--wp--preset--color--theme-palette-15": "var(--global-palette15)",
+      "--wp--preset--color--theme-palette-2": "var(--global-palette2)",
+      "--wp--preset--color--theme-palette-3": "var(--global-palette3)",
+      "--wp--preset--color--theme-palette-4": "var(--global-palette4)",
+      "--wp--preset--color--theme-palette-5": "var(--global-palette5)",
+      "--wp--preset--color--theme-palette-6": "var(--global-palette6)",
+      "--wp--preset--color--theme-palette-7": "var(--global-palette7)",
+      "--wp--preset--color--theme-palette-8": "var(--global-palette8)",
+      "--wp--preset--color--theme-palette-9": "var(--global-palette9)",
+      "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+      "--wp--preset--color--vivid-green-cyan": "#00d084",
+      "--wp--preset--color--vivid-purple": "#9b51e0",
+      "--wp--preset--color--vivid-red": "#cf2e2e",
+      "--wp--preset--color--white": "#ffffff",
+      "--wp--preset--font-size--large": "var(--global-font-size-large)",
+      "--wp--preset--font-size--larger": "var(--global-font-size-larger)",
+      "--wp--preset--font-size--medium": "var(--global-font-size-medium)",
+      "--wp--preset--font-size--small": "var(--global-font-size-small)",
+      "--wp--preset--font-size--x-large": "42px",
+      "--wp--preset--font-size--xxlarge": "var(--global-font-size-xxlarge)",
+      "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)",
+      "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+      "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 8",
+      "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+      "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+      "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)",
+      "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+      "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+      "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+      "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)",
+      "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+      "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+      "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+      "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+      "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+      "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+      "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+      "--wp--preset--spacing--20": "0.44rem",
+      "--wp--preset--spacing--30": "0.67rem",
+      "--wp--preset--spacing--40": "1rem",
+      "--wp--preset--spacing--50": "1.5rem",
+      "--wp--preset--spacing--60": "2.25rem",
+      "--wp--preset--spacing--70": "3.38rem",
+      "--wp--preset--spacing--80": "5.06rem",
+      "--wp--style--global--content-size": "var(--global-calc-content-width)",
+      "--wp--style--global--wide-size": "var(--global-calc-wide-content-width)"
+    },
+    "font_faces": [
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "Roboto Condensed",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "eicons",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Noir et Blanc",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "600"
+      },
+      {
+        "family": "Noir et Blanc",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "600"
+      },
+      {
+        "family": "Bernina Sans Regular",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "normal"
+      },
+      {
+        "family": "Font Awesome 5 Brands",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "900"
+      },
+      {
+        "family": "Font Awesome 5 Brands",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "900"
+      },
+      {
+        "family": "Noir et Blanc",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "600"
+      },
+      {
+        "family": "Noir et Blanc",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "600"
+      },
+      {
+        "family": "Bernina Sans Regular",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "normal"
+      },
+      {
+        "family": "orpheuspro",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "orpheuspro",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "orpheuspro",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "quiverleaf-cf",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      },
+      {
+        "family": "quiverleaf-cf",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "600"
+      },
+      {
+        "family": "quiverleaf-cf",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "800"
+      },
+      {
+        "family": "quiverleaf-cf",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "600"
+      },
+      {
+        "family": "Bernina Sans",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "500"
+      },
+      {
+        "family": "Bernina Sans",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "500"
+      },
+      {
+        "family": "Bernina Sans Regular",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Bernina Sans",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "200"
+      },
+      {
+        "family": "Noir et Blanc",
+        "status": "loaded",
+        "style": "italic",
+        "weight": "600"
+      },
+      {
+        "family": "Noir et Blanc",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "600"
+      },
+      {
+        "family": "Abramo Serif",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Violet Serif",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "normal"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "100"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "100"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "100"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "100"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "100"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "200"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "200"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "200"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "200"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "200"
+      },
+      {
+        "family": "Montserrat",
+        "status": "unloaded",
+        "style": "italic",
+        "weight": "300"
+      }
+    ],
+    "font_sizes": [
+      {
+        "count": 17,
+        "value": "16px"
+      },
+      {
+        "count": 14,
+        "value": "15px"
+      },
+      {
+        "count": 12,
+        "value": "18px"
+      },
+      {
+        "count": 9,
+        "value": "17px"
+      },
+      {
+        "count": 8,
+        "value": "45px"
+      },
+      {
+        "count": 5,
+        "value": "12px"
+      },
+      {
+        "count": 4,
+        "value": "14px"
+      },
+      {
+        "count": 1,
+        "value": "95px"
+      },
+      {
+        "count": 1,
+        "value": "34px"
+      },
+      {
+        "count": 1,
+        "value": "20px"
+      },
+      {
+        "count": 1,
+        "value": "22px"
+      },
+      {
+        "count": 1,
+        "value": "13px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 39,
+        "value": "300"
+      },
+      {
+        "count": 13,
+        "value": "400"
+      },
+      {
+        "count": 8,
+        "value": "200"
+      },
+      {
+        "count": 7,
+        "value": "800"
+      },
+      {
+        "count": 6,
+        "value": "700"
+      },
+      {
+        "count": 1,
+        "value": "600"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 27,
+        "value": "\"Bernina Sans Regular\", sans-serif"
+      },
+      {
+        "count": 20,
+        "value": "\"Noir et Blanc\", sans-serif"
+      },
+      {
+        "count": 17,
+        "value": "\"Bernina Sans\", sans-serif"
+      },
+      {
+        "count": 5,
+        "value": "\"Bernina Sans\""
+      },
+      {
+        "count": 5,
+        "value": "Roboto, sans-serif"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 13,
+        "value": "1140px"
+      },
+      {
+        "count": 5,
+        "value": "1180px"
+      },
+      {
+        "count": 1,
+        "value": "150px"
+      },
+      {
+        "count": 1,
+        "value": "716px"
+      },
+      {
+        "count": 1,
+        "value": "496px"
+      },
+      {
+        "count": 1,
+        "value": "332px"
+      },
+      {
+        "count": 1,
+        "value": "306px"
+      },
+      {
+        "count": 1,
+        "value": "750px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 1,
+        "value": "1px"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 3,
+        "value": "rgba(0, 0, 0, 0) 0px 0px 0px -7px"
+      },
+      {
+        "count": 3,
+        "value": "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 73,
+        "value": "10px"
+      },
+      {
+        "count": 36,
+        "value": "5px"
+      },
+      {
+        "count": 26,
+        "value": "20px"
+      },
+      {
+        "count": 26,
+        "value": "15px"
+      },
+      {
+        "count": 16,
+        "value": "7.5px"
+      },
+      {
+        "count": 12,
+        "value": "4px"
+      },
+      {
+        "count": 8,
+        "value": "9.6px"
+      },
+      {
+        "count": 8,
+        "value": "12.5px"
+      },
+      {
+        "count": 7,
+        "value": "12px"
+      },
+      {
+        "count": 7,
+        "value": "40px"
+      },
+      {
+        "count": 6,
+        "value": "35px"
+      },
+      {
+        "count": 5,
+        "value": "50px"
+      },
+      {
+        "count": 5,
+        "value": "22.5px"
+      },
+      {
+        "count": 5,
+        "value": "32px"
+      },
+      {
+        "count": 4,
+        "value": "-1px"
+      },
+      {
+        "count": 4,
+        "value": "25px"
+      },
+      {
+        "count": 4,
+        "value": "9px"
+      },
+      {
+        "count": 4,
+        "value": "5.2px"
+      },
+      {
+        "count": 4,
+        "value": "6.5px"
+      },
+      {
+        "count": 4,
+        "value": "2px"
+      },
+      {
+        "count": 4,
+        "value": "14px"
+      },
+      {
+        "count": 3,
+        "value": "16px"
+      },
+      {
+        "count": 2,
+        "value": "80px"
+      },
+      {
+        "count": 2,
+        "value": "-15px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 26,
+        "value": "#e3e5db"
+      },
+      {
+        "count": 24,
+        "value": "#24140f"
+      },
+      {
+        "count": 16,
+        "value": "#404d72"
+      },
+      {
+        "count": 4,
+        "value": "#000000"
+      },
+      {
+        "count": 3,
+        "value": "#e2e5db"
+      },
+      {
+        "count": 1,
+        "value": "#231510"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": "",
+      "fields": [
+        {
+          "label": "",
+          "name": "post_id",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "form_id",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "referer_title",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "queried_id",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "form_fields[name]",
+          "placeholder": "Name",
+          "required": false,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "",
+          "name": "form_fields[email]",
+          "placeholder": "Email Address",
+          "required": true,
+          "tag": "input",
+          "type": "email"
+        },
+        {
+          "label": "",
+          "name": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "button",
+          "type": "submit"
+        }
+      ],
+      "method": "post"
+    },
+    {
+      "action": "/how-we-work/",
+      "fields": [
+        {
+          "label": "Name *",
+          "name": "wpforms[fields][1]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "Email *",
+          "name": "wpforms[fields][2]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "email"
+        },
+        {
+          "label": "Your Travel Dates",
+          "name": "wpforms[fields][19]",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "How Many Days? *",
+          "name": "wpforms[fields][7]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "Number of Adults *",
+          "name": "wpforms[fields][8]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "Number of Children (and age) *",
+          "name": "wpforms[fields][9]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "Number of Rooms *",
+          "name": "wpforms[fields][10]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "Days? age)",
+          "name": "wpforms[fields][3]",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "<img width=\"250\" height=\"139\" src=\"https://roamingcamelsmorocco.com/wp-content/u",
+          "name": "wpforms[fields][11]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "radio"
+        },
+        {
+          "label": "<img width=\"250\" height=\"139\" src=\"https://roamingcamelsmorocco.com/wp-content/u",
+          "name": "wpforms[fields][11]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "radio"
+        },
+        {
+          "label": "<img width=\"250\" height=\"139\" src=\"https://roamingcamelsmorocco.com/wp-content/u",
+          "name": "wpforms[fields][11]",
+          "placeholder": "",
+          "required": true,
+          "tag": "input",
+          "type": "radio"
+        },
+        {
+          "label": "Anything Else You'd Like Us to Know?",
+          "name": "wpforms[fields][16]",
+          "placeholder": "",
+          "required": false,
+          "tag": "textarea",
+          "type": "textarea"
+        },
+        {
+          "label": "",
+          "name": "wpforms[id]",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "page_title",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "page_url",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "url_referer",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "page_id",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "wpforms[post_id]",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "wpforms[submit]",
+          "placeholder": "",
+          "required": false,
+          "tag": "button",
+          "type": "submit"
+        }
+      ],
+      "method": "post"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "text": "How We Work"
+    },
+    {
+      "level": 2,
+      "text": "Being Easy To Work With Is One Of Our Core Pillars"
+    },
+    {
+      "level": 2,
+      "text": "First Steps"
+    },
+    {
+      "level": 2,
+      "text": "What's Included"
+    },
+    {
+      "level": 2,
+      "text": "What's Included In Your Tour Package:"
+    },
+    {
+      "level": 2,
+      "text": "AIRPORT TO AIRPORT SERVICE"
+    },
+    {
+      "level": 2,
+      "text": "TOUR LEADER"
+    },
+    {
+      "level": 2,
+      "text": "ACCOMMODATIONS"
+    },
+    {
+      "level": 2,
+      "text": "MEALS"
+    },
+    {
+      "level": 2,
+      "text": "What's Not Included"
+    },
+    {
+      "level": 2,
+      "text": "How To Book & Pay"
+    },
+    {
+      "level": 2,
+      "text": "Join Our Newsletter For All The Latest On Morocco Travel"
+    },
+    {
+      "level": 2,
+      "text": "Let's personalize your Morocco trip for the perfect quote!"
+    },
+    {
+      "level": 2,
+      "text": "We Understand Luxury Travel."
+    }
+  ],
+  "health": {
+    "errors": [],
+    "failed_requests": []
+  },
+  "lang": "en-US",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "h": 150,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "header",
+          "w": 1425,
+          "y": 0
+        },
+        {
+          "h": 150,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "nav",
+          "w": 498,
+          "y": 0
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1140,
+            "x": 143
+          },
+          "h": 5049,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "main",
+          "w": 1425,
+          "y": 0
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1140,
+            "x": 143
+          },
+          "h": 5049,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1425,
+          "y": 0
+        },
+        {
+          "h": 585,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1425,
+          "y": -49
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1180,
+            "x": 123
+          },
+          "h": 829,
+          "heading": "Being Easy To Work With Is One Of Our Core Pillars",
+          "pad": [
+            50,
+            0,
+            40,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1425,
+          "y": 536
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 649,
+            "x": 123
+          },
+          "h": 739,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 649,
+          "y": 586
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1140,
+            "x": 143
+          },
+          "h": 695,
+          "heading": "First Steps",
+          "pad": [
+            40,
+            0,
+            40,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1425,
+          "y": 1365
+        },
+        {
+          "column": {
+            "max_w": 716,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 716,
+            "x": 355
+          },
+          "h": 277,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 1683
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1180,
+            "x": 123
+          },
+          "h": 860,
+          "heading": "What's Included",
+          "pad": [
+            250,
+            0,
+            200,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1425,
+          "y": 2060
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1140,
+            "x": 143
+          },
+          "h": 1256,
+          "heading": "What's Included In Your Tour Package:",
+          "pad": [
+            80,
+            0,
+            40,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1425,
+          "y": 2920
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 62,
+          "heading": "AIRPORT TO AIRPORT SERVICE",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3098
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 64,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3160
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 62,
+          "heading": "TOUR LEADER",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3224
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 118,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3286
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 62,
+          "heading": "ACCOMMODATIONS",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3404
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 64,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3466
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 62,
+          "heading": "MEALS",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3530
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1120,
+            "x": 153
+          },
+          "h": 240,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3592
+        },
+        {
+          "column": {
+            "max_w": 750,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 750,
+            "x": 338
+          },
+          "h": 197,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1120,
+          "y": 3929
+        },
+        {
+          "background": "#e4e6db",
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1180,
+            "x": 123
+          },
+          "h": 873,
+          "heading": "How To Book & Pay",
+          "pad": [
+            120,
+            0,
+            120,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1425,
+          "y": 4176
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1180,
+            "x": 123
+          },
+          "h": 593,
+          "heading": "How To Book & Pay",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1180,
+          "y": 4296
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1140,
+            "x": 143
+          },
+          "h": 1041,
+          "heading": "Join Our Newsletter For All The Latest On Morocco Travel",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "footer",
+          "w": 1425,
+          "y": 5049
+        },
+        {
+          "column": {
+            "max_w": 1140,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1140,
+            "x": 143
+          },
+          "h": 400,
+          "heading": "Join Our Newsletter For All The Latest On Morocco Travel",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1425,
+          "y": 5049
+        },
+        {
+          "background": "#404d72",
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1180,
+            "x": 123
+          },
+          "h": 566,
+          "pad": [
+            40,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1425,
+          "y": 5449
+        },
+        {
+          "column": {
+            "max_w": 1290,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1180,
+            "x": 123
+          },
+          "h": 526,
+          "pad": [
+            0,
+            0,
+            50,
+            0
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1180,
+          "y": 5489
+        },
+        {
+          "background": "#404d72",
+          "h": 75,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1425,
+          "y": 6015
+        }
+      ],
+      "page_h": 6090,
+      "page_w": 1425,
+      "type": {
+        "body": 17,
+        "h1": 0,
+        "h2": 95,
+        "h3": 0
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [
+        {
+          "h": 150,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "header",
+          "w": 753,
+          "y": 0
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 753,
+            "x": 0
+          },
+          "h": 6048,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "main",
+          "w": 753,
+          "y": 0
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 753,
+            "x": 0
+          },
+          "h": 6048,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 753,
+          "y": 0
+        },
+        {
+          "h": 585,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 753,
+          "y": -49
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 1407,
+          "heading": "Being Easy To Work With Is One Of Our Core Pillars",
+          "pad": [
+            50,
+            10,
+            50,
+            10
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 753,
+          "y": 536
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 713,
+            "x": 20
+          },
+          "h": 904,
+          "pad": [
+            50,
+            0,
+            50,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 713,
+          "y": 989
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 792,
+          "heading": "First Steps",
+          "pad": [
+            50,
+            10,
+            50,
+            10
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 753,
+          "y": 1943
+        },
+        {
+          "column": {
+            "max_w": 716,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 713,
+            "x": 20
+          },
+          "h": 277,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 713,
+          "y": 2322
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 1095,
+          "heading": "What's Included",
+          "pad": [
+            180,
+            10,
+            180,
+            10
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 753,
+          "y": 2735
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 753,
+            "x": 0
+          },
+          "h": 1368,
+          "heading": "What's Included In Your Tour Package:",
+          "pad": [
+            50,
+            0,
+            50,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 753,
+          "y": 3830
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "AIRPORT TO AIRPORT SERVICE",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 3977
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 64,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4039
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "TOUR LEADER",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4103
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 140,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4165
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "ACCOMMODATIONS",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4305
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 86,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4367
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "MEALS",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4453
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 328,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4515
+        },
+        {
+          "column": {
+            "max_w": 750,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 197,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 4941
+        },
+        {
+          "background": "#e4e6db",
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 850,
+          "heading": "How To Book & Pay",
+          "pad": [
+            50,
+            10,
+            50,
+            10
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 753,
+          "y": 5198
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 733,
+            "x": 10
+          },
+          "h": 710,
+          "heading": "How To Book & Pay",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 733,
+          "y": 5248
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 753,
+            "x": 0
+          },
+          "h": 1736,
+          "heading": "Join Our Newsletter For All The Latest On Morocco Travel",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "footer",
+          "w": 753,
+          "y": 6048
+        },
+        {
+          "column": {
+            "max_w": 1024,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 753,
+            "x": 0
+          },
+          "h": 400,
+          "heading": "Join Our Newsletter For All The Latest On Morocco Travel",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 753,
+          "y": 6048
+        },
+        {
+          "background": "#404d72",
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 753,
+            "x": 0
+          },
+          "h": 1262,
+          "pad": [
+            40,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 753,
+          "y": 6448
+        },
+        {
+          "column": {
+            "max_w": 1290,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 713,
+            "x": 20
+          },
+          "h": 1222,
+          "pad": [
+            20,
+            0,
+            50,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 713,
+          "y": 6488
+        },
+        {
+          "background": "#404d72",
+          "h": 75,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 753,
+          "y": 7710
+        }
+      ],
+      "page_h": 7784,
+      "page_w": 753,
+      "type": {
+        "body": 17,
+        "h1": 0,
+        "h2": 95,
+        "h3": 0
+      },
+      "width": 768
+    },
+    {
+      "blocks": [
+        {
+          "h": 150,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "header",
+          "w": 390,
+          "y": 0
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 5446,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "main",
+          "w": 390,
+          "y": 0
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 5446,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 390,
+          "y": 0
+        },
+        {
+          "h": 585,
+          "heading": "How We Work",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 390,
+          "y": -49
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 645,
+          "heading": "Being Easy To Work With Is One Of Our Core Pillars",
+          "pad": [
+            20,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 536
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 1124,
+          "heading": "First Steps",
+          "pad": [
+            50,
+            10,
+            50,
+            10
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 1181
+        },
+        {
+          "column": {
+            "max_w": 716,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 350,
+            "x": 20
+          },
+          "h": 430,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 350,
+          "y": 1713
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 576,
+          "heading": "What's Included",
+          "pad": [
+            20,
+            0,
+            80,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 2305
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 1836,
+          "heading": "What's Included In Your Tour Package:",
+          "pad": [
+            50,
+            0,
+            50,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 2881
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "AIRPORT TO AIRPORT SERVICE",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3074
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 108,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3136
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "TOUR LEADER",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3244
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 206,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3306
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "ACCOMMODATIONS",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3512
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 152,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3574
+        },
+        {
+          "background": "#e3e5db",
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 62,
+          "heading": "MEALS",
+          "pad": [
+            5,
+            0,
+            5,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3726
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 548,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 3788
+        },
+        {
+          "column": {
+            "max_w": 750,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 179,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 4478
+        },
+        {
+          "background": "#e4e6db",
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 729,
+          "heading": "How To Book & Pay",
+          "pad": [
+            50,
+            10,
+            50,
+            10
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 4717
+        },
+        {
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 589,
+          "heading": "How To Book & Pay",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 370,
+          "y": 4767
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 2032,
+          "heading": "Join Our Newsletter For All The Latest On Morocco Travel",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "footer",
+          "w": 390,
+          "y": 5446
+        },
+        {
+          "column": {
+            "max_w": 767,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 370,
+            "x": 10
+          },
+          "h": 400,
+          "heading": "Join Our Newsletter For All The Latest On Morocco Travel",
+          "pad": [
+            0,
+            10,
+            0,
+            10
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 390,
+          "y": 5446
+        },
+        {
+          "background": "#404d72",
+          "column": {
+            "max_w": 1180,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 1522,
+          "pad": [
+            80,
+            0,
+            10,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 5846
+        },
+        {
+          "column": {
+            "max_w": 1290,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 360,
+            "x": 15
+          },
+          "h": 1432,
+          "pad": [
+            0,
+            0,
+            30,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 360,
+          "y": 5926
+        },
+        {
+          "background": "#404d72",
+          "h": 110,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 7368
+        }
+      ],
+      "page_h": 7478,
+      "page_w": 390,
+      "type": {
+        "body": 16,
+        "h1": 0,
+        "h2": 79,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/",
+      "text": "HOME"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "text": "MOROCCO TOURS"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+      "text": "TRAVEL GUIDE"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#",
+      "text": "QUICK LINKS"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/about/",
+      "text": "About"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/",
+      "text": "How We Work"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/faq/",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/blog/",
+      "text": "Blog"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/for-advisors/",
+      "text": "For Advisors"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/contact/",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/",
+      "text": "<img fetchpriority=\"high\" width=\"1000\" height=\"543\" src=\"https://roamingcamelsmorocco.com/wp-content"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Roaming-Camels-moroccan-seaside-min.jpg",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "text": "READY TO BOOK?"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "text": "TOUR FINDER"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/home",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/roamingcamelsmorocco",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/roamingcamels/",
+      "text": ""
+    },
+    {
+      "href": "https://www.tripadvisor.ca/Attraction_Review-g293734-d10055928-Reviews-Roaming_Camels_Morocco-Marrakech_Marrakech_Safi.html",
+      "text": ""
+    },
+    {
+      "href": "https://wa.me/+212661053623",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "text": "MOROCCO TOUR PACKAGES"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+      "text": "MOROCCO TRAVEL GUIDE"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/about",
+      "text": "ABOUT US"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/",
+      "text": "HOW WE WORK"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/blog/",
+      "text": "ROAMING CAMELS BLOG"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#",
+      "text": "TERMS & CONDITIONS"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/privacy-policy/",
+      "text": "PRIVACY POLICY"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/contact/",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "tel:+212661053623",
+      "text": "+ 212 6 61 05 36 23"
+    },
+    {
+      "href": "mailto:%20hello@roamingcamelsmorocco.com",
+      "text": "hello@roamingcamelsmorocco.com"
+    },
+    {
+      "href": "https://wa.me/+212661053623",
+      "text": "+212 6 61 05 36 23"
+    },
+    {
+      "href": "https://www.happilyhafsa.com/websites/",
+      "text": "HAPPILY HAFSA"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/home",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/home/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/about/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/faq/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/blog/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/for-advisors/",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/contact",
+      "text": ""
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#wrapper",
+      "text": "Scroll to top"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/home",
+      "text": "<img width=\"1024\" height=\"556\" src=\"https://roamingcamelsmorocco.com/wp-content/uploads/2024/11/Corn"
+    },
+    {
+      "href": "https://wa.me/+212661053623",
+      "text": "Chat On WhatsApp"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "text": "Tour Finder"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/#extended_tours",
+      "text": "Extended Tours"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/#desert_tours",
+      "text": "Desert Tours"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/#day-trips",
+      "text": "Day Trips"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-luxury-tours/",
+      "text": "Custom Luxury Tours"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+      "text": "Morocco Travel Guide"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/about/",
+      "text": "Our Story"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/how-we-work/",
+      "text": "How We Work"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/faq/",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/blog/",
+      "text": "Blog"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/for-advisors/",
+      "text": "For Advisors"
+    },
+    {
+      "href": "https://roamingcamelsmorocco.com/contact/",
+      "text": "Contact"
+    }
+  ],
+  "meta": {
+    "description": "Roaming Camels Morocco is a tour agency in Morocco. We provide private Morocco desert tours with professional tour guides.",
+    "icons": [
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2024/11/cropped-RCM-favicon-32x32.png",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2024/11/cropped-RCM-favicon-192x192.png",
+      "https://roamingcamelsmorocco.com/wp-content/uploads/2024/11/cropped-RCM-favicon-180x180.png"
+    ],
+    "og_image": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Extended-Tours.jpg",
+    "og_title": "How We Work - Roaming Camels Morocco",
+    "theme_color": ""
+  },
+  "outline": [
+    {
+      "box": {
+        "h": 1,
+        "w": 1,
+        "x": -1,
+        "y": -160001
+      },
+      "class": "skip-link screen-reader-text scroll-ignore",
+      "color": "#24140f",
+      "depth": 3,
+      "font": "16px 400",
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#main",
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "class": "site-header",
+      "color": "#24140f",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "id": "masthead",
+      "role": "banner",
+      "tag": "header"
+    },
+    {
+      "box": {
+        "h": 81,
+        "w": 150,
+        "x": 55,
+        "y": 40
+      },
+      "class": "brand has-logo-image",
+      "color": "#24140f",
+      "depth": 15,
+      "font": "16px 400",
+      "href": "https://roamingcamelsmorocco.com/",
+      "tag": "a"
+    },
+    {
+      "alt": "Roaming Camels Morocco",
+      "box": {
+        "h": 81,
+        "w": 150,
+        "x": 55,
+        "y": 40
+      },
+      "class": "custom-logo entered lazyloaded",
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 400",
+      "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Full-Logo-White-small.png",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 498,
+        "x": 703,
+        "y": 0
+      },
+      "class": "main-navigation header-navigation hover-to-open nav--toggle-sub header-navigation-style-fullheight header-navigation-dro",
+      "color": "#24140f",
+      "depth": 14,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "id": "site-navigation",
+      "role": "navigation",
+      "tag": "nav"
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 498,
+        "x": 703,
+        "y": 0
+      },
+      "class": "menu",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "id": "primary-menu",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 71,
+        "x": 703,
+        "y": 0
+      },
+      "color": "#e3e5db",
+      "depth": 18,
+      "font": "16px 200",
+      "href": "https://roamingcamelsmorocco.com/",
+      "tag": "a",
+      "text": "HOME"
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 158,
+        "x": 774,
+        "y": 0
+      },
+      "color": "#e3e5db",
+      "depth": 18,
+      "font": "16px 200",
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "tag": "a",
+      "text": "MOROCCO TOURS"
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 133,
+        "x": 931,
+        "y": 0
+      },
+      "color": "#e3e5db",
+      "depth": 18,
+      "font": "16px 200",
+      "href": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+      "tag": "a",
+      "text": "TRAVEL GUIDE"
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 136,
+        "x": 1064,
+        "y": 0
+      },
+      "color": "#e3e5db",
+      "depth": 18,
+      "font": "16px 200",
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#",
+      "tag": "a",
+      "text": "QUICK LINKS"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1175,
+        "y": 70
+      },
+      "color": "#e3e5db",
+      "depth": 22,
+      "font": "14.4px 200",
+      "tag": "svg"
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 45,
+        "w": 165,
+        "x": 1210,
+        "y": 52
+      },
+      "class": "button header-button button-size-custom button-style-filled",
+      "color": "#231510",
+      "depth": 16,
+      "font": "12px 200",
+      "href": "https://roamingcamelsmorocco.com/contact/",
+      "tag": "a",
+      "text": "CONTACT US"
+    },
+    {
+      "box": {
+        "h": 5049,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "class": "wrap kt-clear",
+      "color": "#24140f",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "id": "inner-wrap",
+      "role": "main",
+      "tag": "main"
+    },
+    {
+      "box": {
+        "h": 5049,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "class": "entry content-bg single-entry post-82633 page type-page status-publish hentry",
+      "color": "#24140f",
+      "depth": 8,
+      "display": "block",
+      "font": "16px 400",
+      "id": "post-82633",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 1,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-0fb02e8 elementor-section-boxed elementor-se",
+      "color": "#24140f",
+      "depth": 12,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 585,
+        "w": 1425,
+        "x": 0,
+        "y": -49
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-13a5934 elementor-section-height-min-height ",
+      "color": "#24140f",
+      "depth": 12,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 114,
+        "w": 1355,
+        "x": 10,
+        "y": 365
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#e3e5db",
+      "depth": 18,
+      "font": "95px 400",
+      "tag": "h2",
+      "text": "How We Work"
+    },
+    {
+      "box": {
+        "h": 829,
+        "w": 1425,
+        "x": 0,
+        "y": 536
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-4a187f60 elementor-reverse-tablet elementor-",
+      "color": "#24140f",
+      "depth": 12,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 739,
+        "w": 649,
+        "x": 123,
+        "y": 586
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-727ee7c7 elementor-hidden-mobile elementor",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "alt": "Intricately carved stone archway and wall with arabesque patterns in a Moorish architectural style, reminiscent of Moroc",
+      "box": {
+        "h": 444,
+        "w": 325,
+        "x": 123,
+        "y": 586
+      },
+      "class": "elementor-animation-grow attachment-full size-full wp-image-81333",
+      "color": "#24140f",
+      "depth": 22,
+      "font": "16px 400",
+      "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Extended-Tours.jpg",
+      "tag": "img"
+    },
+    {
+      "alt": "Twilight descends on a quaint small town in Morocco as street lights cast a warm glow on the historic main street.",
+      "box": {
+        "h": 183,
+        "w": 292,
+        "x": 123,
+        "y": 1060
+      },
+      "class": "elementor-animation-grow attachment-full size-full wp-image-82038",
+      "color": "#24140f",
+      "depth": 22,
+      "font": "16px 400",
+      "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Fes-Roaming-Camels-Morocco-Tour-min-1.jpg",
+      "tag": "img"
+    },
+    {
+      "alt": "A vibrant waterfall cascades into a lush basin in Morocco where visitors gather to enjoy the natural scenery.",
+      "box": {
+        "h": 165,
+        "w": 248,
+        "x": 524,
+        "y": 666
+      },
+      "class": "elementor-animation-grow attachment-full size-full wp-image-82375",
+      "color": "#24140f",
+      "depth": 22,
+      "font": "16px 400",
+      "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Day-Trip-to-Ouzoud-Waterfalls-Roaming-Camels-Tours-min-1536x1024.jpg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 464,
+        "w": 310,
+        "x": 462,
+        "y": 861
+      },
+      "color": "#24140f",
+      "depth": 22,
+      "font": "16px 400",
+      "href": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Roaming-Camels-moroccan-seaside-min.jpg",
+      "tag": "a"
+    },
+    {
+      "alt": "Coastal town in Morocco with historic fortifications overlooking a sandy beach with visitors.",
+      "box": {
+        "h": 464,
+        "w": 310,
+        "x": 462,
+        "y": 861
+      },
+      "class": "elementor-animation-grow attachment-full size-full wp-image-81506",
+      "color": "#24140f",
+      "depth": 23,
+      "font": "16px 400",
+      "src": "https://roamingcamelsmorocco.com/wp-content/uploads/2022/07/Roaming-Camels-moroccan-seaside-min.jpg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 95,
+        "w": 491,
+        "x": 812,
+        "y": 729
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 18,
+      "font": "34px 400",
+      "tag": "h2",
+      "text": "Being Easy To Work With Is One Of Our Core Pillars"
+    },
+    {
+      "background": "#eac76500",
+      "box": {
+        "h": 46,
+        "w": 216,
+        "x": 812,
+        "y": 1137
+      },
+      "class": "elementor-button elementor-button-link elementor-size-sm",
+      "color": "#24140f",
+      "depth": 19,
+      "font": "14px 200",
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "tag": "a",
+      "text": "READY TO BOOK?"
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 695,
+        "w": 1425,
+        "x": 0,
+        "y": 1365
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-dff4093 elementor-section-boxed elementor-se",
+      "color": "#24140f",
+      "depth": 12,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 45,
+        "w": 1120,
+        "x": 153,
+        "y": 1415
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 18,
+      "font": "45px 400",
+      "tag": "h2",
+      "text": "First Steps"
+    },
+    {
+      "box": {
+        "h": 102,
+        "w": 1120,
+        "x": 153,
+        "y": 1503
+      },
+      "color": "#24140f",
+      "depth": 18,
+      "font": "17px 300",
+      "tag": "p",
+      "text": "When you are coming to Morocco there are a few basic details that we need to settle right from the start. We need to plan the most efficient route for you, as well as making sure that you have time to"
+    },
+    {
+      "box": {
+        "h": 277,
+        "w": 1120,
+        "x": 153,
+        "y": 1683
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-fc7232f elementor-section-boxed elementor-",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 257,
+        "w": 696,
+        "x": 365,
+        "y": 1693
+      },
+      "class": "elementor-icon-list-items",
+      "color": "#24140f",
+      "depth": 22,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 26,
+        "x": 365,
+        "y": 1693
+      },
+      "color": "#24140f",
+      "depth": 25,
+      "font": "16px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 26,
+        "x": 365,
+        "y": 1731
+      },
+      "color": "#24140f",
+      "depth": 25,
+      "font": "16px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 26,
+        "x": 365,
+        "y": 1783
+      },
+      "color": "#24140f",
+      "depth": 25,
+      "font": "16px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 26,
+        "x": 365,
+        "y": 1821
+      },
+      "color": "#24140f",
+      "depth": 25,
+      "font": "16px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 26,
+        "x": 365,
+        "y": 1885
+      },
+      "color": "#24140f",
+      "depth": 25,
+      "font": "16px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 860,
+        "w": 1425,
+        "x": 0,
+        "y": 2060
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-73b96f40 elementor-section-boxed elementor-s",
+      "color": "#24140f",
+      "depth": 12,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "alt": "A mountain village nestled in a lush valley with terraced fields, under the shadow of rugged peaks, typical of Morocco's",
+      "box": {
+        "h": 325,
+        "w": 488,
+        "x": 409,
+        "y": 2452
+      },
+      "class": "attachment-large size-large wp-image-82376",
+      "color": "#24140f",
+      "depth": 18,
+      "font": "16px 400",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20682'%3E%3C/svg%3E",
+      "tag": "img"
+    },
+    {
+      "alt": "A fortified village atop a hill in Morocco with a bridge leading to it, surrounded by desert vegetation under a clear bl",
+      "box": {
+        "h": 203,
+        "w": 324,
+        "x": 411,
+        "y": 2202
+      },
+      "class": "attachment-large size-large wp-image-82398",
+      "color": "#24140f",
+      "depth": 18,
+      "font": "16px 400",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20640'%3E%3C/svg%3E",
+      "tag": "img"
+    },
+    {
+      "alt": "Ornate columns with mosaic tilework in a traditional Moroccan architectural setting.",
+      "box": {
+        "h": 447,
+        "w": 298,
+        "x": 77,
+        "y": 2256
+      },
+      "class": "attachment-large size-large wp-image-81505",
+      "color": "#24140f",
+      "depth": 18,
+      "font": "16px 400",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 45,
+        "w": 530,
+        "x": 773,
+        "y": 2310
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 18,
+      "font": "45px 400",
+      "tag": "h2",
+      "text": "What's Included"
+    },
+    {
+      "box": {
+        "h": 102,
+        "w": 370,
+        "x": 933,
+        "y": 2398
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "18px 300",
+      "tag": "p",
+      "text": "Another core value of our business is transparency. Below we outline exactly what is and isn’t included in your tour package."
+    },
+    {
+      "box": {
+        "h": 77,
+        "w": 370,
+        "x": 933,
+        "y": 2532
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "18px 300",
+      "tag": "p",
+      "text": "We don’t believe in adding surprise charges to your bill once you’re here travelling with us in Morocco."
+    },
+    {
+      "box": {
+        "h": 77,
+        "w": 370,
+        "x": 933,
+        "y": 2641
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "18px 300",
+      "tag": "p",
+      "text": "The goal, always, is to help you enjoy the magic of Morocco without feeling stressed or anxious."
+    },
+    {
+      "box": {
+        "h": 1256,
+        "w": 1425,
+        "x": 0,
+        "y": 2920
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-feb3a99 elementor-section-boxed elementor-se",
+      "color": "#24140f",
+      "depth": 12,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 45,
+        "w": 1120,
+        "x": 153,
+        "y": 3010
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 18,
+      "font": "45px 400",
+      "tag": "h2",
+      "text": "What's Included In Your Tour Package:"
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 62,
+        "w": 1120,
+        "x": 153,
+        "y": 3098
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-cd7cfee elementor-section-content-middle e",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 1085,
+        "x": 178,
+        "y": 3118
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 22,
+      "font": "18px 800",
+      "tag": "h2",
+      "text": "AIRPORT TO AIRPORT SERVICE"
+    },
+    {
+      "box": {
+        "h": 64,
+        "w": 1120,
+        "x": 153,
+        "y": 3160
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-9972e49 elementor-section-boxed elementor-",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 1085,
+        "x": 178,
+        "y": 3170
+      },
+      "color": "#24140f",
+      "depth": 22,
+      "font": "15px 300",
+      "tag": "p",
+      "text": "All of our tours start and end at the airport so you don’t need to worry about a thing. We will meet you at the airport and make sure you get back in time for your departure."
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 62,
+        "w": 1120,
+        "x": 153,
+        "y": 3224
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-6af4280 elementor-section-content-middle e",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 1085,
+        "x": 178,
+        "y": 3244
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 22,
+      "font": "18px 800",
+      "tag": "h2",
+      "text": "TOUR LEADER"
+    },
+    {
+      "box": {
+        "h": 118,
+        "w": 1120,
+        "x": 153,
+        "y": 3286
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-b36e588 elementor-section-boxed elementor-",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 1085,
+        "x": 178,
+        "y": 3296
+      },
+      "color": "#24140f",
+      "depth": 22,
+      "font": "15px 300",
+      "tag": "p",
+      "text": "Most of our trips are led by either an English speaking driver, or a driver and an English speaking National Guide who is fully licensed for guiding in Morocco."
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 1085,
+        "x": 178,
+        "y": 3372
+      },
+      "color": "#24140f",
+      "depth": 22,
+      "font": "15px 300",
+      "tag": "p",
+      "text": "Typically we offer a guide for groups of 4 people or more, but we are happy to offer the services of a guide to couples as well."
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 62,
+        "w": 1120,
+        "x": 153,
+        "y": 3404
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-edd792e elementor-section-content-middle e",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 1085,
+        "x": 178,
+        "y": 3424
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 22,
+      "font": "18px 800",
+      "tag": "h2",
+      "text": "ACCOMMODATIONS"
+    },
+    {
+      "box": {
+        "h": 64,
+        "w": 1120,
+        "x": 153,
+        "y": 3466
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-e7597b2 elementor-section-boxed elementor-",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 1085,
+        "x": 178,
+        "y": 3476
+      },
+      "color": "#24140f",
+      "depth": 22,
+      "font": "15px 300",
+      "tag": "p",
+      "text": "We include all hotels in your package (unless you request that we don’t). Hotels are based on your budget and availability. We use only clean, local and authentic properties that are well reviewed and"
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 62,
+        "w": 1120,
+        "x": 153,
+        "y": 3530
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-0832a36 elementor-section-content-middle e",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 1085,
+        "x": 178,
+        "y": 3550
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 22,
+      "font": "18px 800",
+      "tag": "h2",
+      "text": "MEALS"
+    },
+    {
+      "box": {
+        "h": 240,
+        "w": 1120,
+        "x": 153,
+        "y": 3592
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-35e5265 elementor-section-boxed elementor-",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 45,
+        "w": 1120,
+        "x": 153,
+        "y": 3857
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 18,
+      "font": "45px 400",
+      "tag": "h2",
+      "text": "What's Not Included"
+    },
+    {
+      "box": {
+        "h": 197,
+        "w": 1120,
+        "x": 153,
+        "y": 3929
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-254a97c elementor-section-boxed elementor-",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 49,
+        "w": 730,
+        "x": 348,
+        "y": 3939
+      },
+      "class": "elementor-tab-title",
+      "color": "#24140f",
+      "depth": 24,
+      "font": "16px 700",
+      "id": "elementor-tab-title-9071",
+      "role": "button",
+      "tag": "div",
+      "text": "AIRFARE"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 70,
+        "x": 388,
+        "y": 3954
+      },
+      "class": "elementor-toggle-title",
+      "color": "#404d72",
+      "depth": 25,
+      "font": "18px 800",
+      "href": "",
+      "tag": "a",
+      "text": "AIRFARE"
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 49,
+        "w": 730,
+        "x": 348,
+        "y": 4003
+      },
+      "class": "elementor-tab-title",
+      "color": "#24140f",
+      "depth": 24,
+      "font": "16px 700",
+      "id": "elementor-tab-title-9072",
+      "role": "button",
+      "tag": "div",
+      "text": "TRAVEL INSURANCE"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 169,
+        "x": 388,
+        "y": 4018
+      },
+      "class": "elementor-toggle-title",
+      "color": "#404d72",
+      "depth": 25,
+      "font": "18px 800",
+      "href": "",
+      "tag": "a",
+      "text": "TRAVEL INSURANCE"
+    },
+    {
+      "background": "#e3e5db",
+      "box": {
+        "h": 49,
+        "w": 730,
+        "x": 348,
+        "y": 4067
+      },
+      "class": "elementor-tab-title",
+      "color": "#24140f",
+      "depth": 24,
+      "font": "16px 700",
+      "id": "elementor-tab-title-9073",
+      "role": "button",
+      "tag": "div",
+      "text": "TIPPING"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 69,
+        "x": 388,
+        "y": 4082
+      },
+      "class": "elementor-toggle-title",
+      "color": "#404d72",
+      "depth": 25,
+      "font": "18px 800",
+      "href": "",
+      "tag": "a",
+      "text": "TIPPING"
+    },
+    {
+      "background": "#e4e6db",
+      "box": {
+        "h": 873,
+        "w": 1425,
+        "x": 0,
+        "y": 4176
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-7dc681fc elementor-section-boxed elementor-s",
+      "color": "#24140f",
+      "depth": 12,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 593,
+        "w": 1180,
+        "x": 123,
+        "y": 4296
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-6920f8c9 elementor-section-content-middle ",
+      "color": "#24140f",
+      "depth": 16,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "alt": "An intricately patterned Moroccan arch entrance with a hanging lantern against a warm orange wall.",
+      "box": {
+        "h": 593,
+        "w": 395,
+        "x": 220,
+        "y": 4296
+      },
+      "class": "attachment-large size-large wp-image-80676",
+      "color": "#24140f",
+      "depth": 22,
+      "font": "16px 400",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 45,
+        "w": 590,
+        "x": 713,
+        "y": 4385
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#404d72",
+      "depth": 22,
+      "font": "45px 400",
+      "tag": "h2",
+      "text": "How To Book & Pay"
+    },
+    {
+      "box": {
+        "h": 179,
+        "w": 590,
+        "x": 713,
+        "y": 4472
+      },
+      "color": "#24140f",
+      "depth": 26,
+      "font": "16px 300",
+      "tag": "p",
+      "text": "In order to secure your dates, we require a non-refundable small deposit of $550 USD to book. This can be paid by secure credit card link through an invoice. The balance is due in full 30 days in adva"
+    },
+    {
+      "box": {
+        "h": 51,
+        "w": 590,
+        "x": 713,
+        "y": 4683
+      },
+      "color": "#24140f",
+      "depth": 26,
+      "font": "16px 300",
+      "tag": "p",
+      "text": "There is a 5% service fee for credit card payment and we also accept bank transfers or a wire transfers to our US dollar account to our Canadian bank."
+    },
+    {
+      "background": "#eac76500",
+      "box": {
+        "h": 46,
+        "w": 184,
+        "x": 713,
+        "y": 4754
+      },
+      "class": "elementor-button elementor-button-link elementor-size-sm",
+      "color": "#24140f",
+      "depth": 23,
+      "font": "14px 200",
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "tag": "a",
+      "text": "TOUR FINDER"
+    },
+    {
+      "box": {
+        "h": 1041,
+        "w": 1425,
+        "x": 0,
+        "y": 5049
+      },
+      "class": "elementor elementor-81551 elementor-location-footer",
+      "color": "#24140f",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "footer"
+    },
+    {
+      "box": {
+        "h": 400,
+        "w": 1425,
+        "x": 0,
+        "y": 5049
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-460c02e elementor-section-height-min-height ",
+      "color": "#24140f",
+      "depth": 4,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 45,
+        "w": 1120,
+        "x": 153,
+        "y": 5205
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#000000",
+      "depth": 10,
+      "font": "45px 600",
+      "tag": "h2",
+      "text": "Join Our Newsletter For All The Latest On Morocco Travel"
+    },
+    {
+      "box": {
+        "h": 58,
+        "w": 1120,
+        "x": 153,
+        "y": 5280
+      },
+      "class": "elementor-form",
+      "color": "#24140f",
+      "depth": 10,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "form"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 44,
+        "w": 367,
+        "x": 153,
+        "y": 5282
+      },
+      "class": "elementor-field elementor-size-sm elementor-field-textual",
+      "color": "#99403d",
+      "depth": 13,
+      "font": "13px 300",
+      "id": "form-field-name",
+      "name": "form_fields[name]",
+      "placeholder": "Name",
+      "tag": "input",
+      "type": "text"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 44,
+        "w": 367,
+        "x": 529,
+        "y": 5282
+      },
+      "class": "elementor-field elementor-size-sm elementor-field-textual",
+      "color": "#99403d",
+      "depth": 13,
+      "font": "13px 300",
+      "id": "form-field-email",
+      "name": "form_fields[email]",
+      "placeholder": "Email Address",
+      "tag": "input",
+      "type": "email"
+    },
+    {
+      "background": "#404d7200",
+      "box": {
+        "h": 48,
+        "w": 367,
+        "x": 906,
+        "y": 5280
+      },
+      "class": "elementor-button elementor-size-sm elementor-animation-shrink",
+      "color": "#24140f",
+      "depth": 13,
+      "font": "12px 300",
+      "tag": "button",
+      "text": "JOIN THE LIST"
+    },
+    {
+      "background": "#404d72",
+      "box": {
+        "h": 566,
+        "w": 1425,
+        "x": 0,
+        "y": 5449
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-377086a4 elementor-section-boxed elementor-s",
+      "color": "#24140f",
+      "depth": 4,
+      "display": "block",
+      "font": "16px 400",
+      "id": "custom-footer-id",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 526,
+        "w": 1180,
+        "x": 123,
+        "y": 5489
+      },
+      "class": "elementor-section elementor-inner-section elementor-element elementor-element-441854e9 elementor-section-boxed elementor",
+      "color": "#24140f",
+      "depth": 8,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 210,
+        "w": 300,
+        "x": 123,
+        "y": 5489
+      },
+      "color": "#24140f",
+      "depth": 14,
+      "font": "16px 400",
+      "href": "https://roamingcamelsmorocco.com/home",
+      "tag": "a"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 210,
+        "w": 150,
+        "x": 123,
+        "y": 5489
+      },
+      "class": "attachment-full size-full wp-image-84250",
+      "color": "#24140f",
+      "depth": 15,
+      "font": "16px 400",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20650%20912'%3E%3C/svg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 77,
+        "w": 351,
+        "x": 123,
+        "y": 5733
+      },
+      "color": "#e3e5db",
+      "depth": 14,
+      "font": "14px 300",
+      "tag": "p",
+      "text": "ROAMING CAMELS MOROCCO IS OWNED AND OPERATED BY A HIGHLY RESPECTED NATIVE AMAZIGH GUIDE WHO HAS YEARS OF EXPERIENCE LEADING TOURS OF ALL KINDS."
+    },
+    {
+      "box": {
+        "h": 51,
+        "w": 351,
+        "x": 123,
+        "y": 5824
+      },
+      "color": "#e3e5db",
+      "depth": 14,
+      "font": "14px 300",
+      "tag": "p",
+      "text": "TRUST US TO SHOW YOU THE BEST FOR PRIVATE TOURS IN MOROCCO."
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 367,
+        "x": 115,
+        "y": 5947
+      },
+      "class": "elementor-icon-list-items elementor-inline-items",
+      "color": "#24140f",
+      "depth": 14,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 28,
+        "x": 123,
+        "y": 5947
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 400",
+      "href": "https://www.facebook.com/roamingcamelsmorocco",
+      "tag": "a"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 28,
+        "x": 166,
+        "y": 5947
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 400",
+      "href": "https://www.instagram.com/roamingcamels/",
+      "tag": "a"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 28,
+        "x": 210,
+        "y": 5947
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 400",
+      "href": "https://www.tripadvisor.ca/Attraction_Review-g293734-d10055928-Reviews-Roaming_Camels_Morocco-Marrakech_Marrakech_Safi.html",
+      "tag": "a"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 28,
+        "x": 253,
+        "y": 5947
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 400",
+      "href": "https://wa.me/+212661053623",
+      "tag": "a"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 340,
+        "x": 604,
+        "y": 5489
+      },
+      "class": "elementor-heading-title elementor-size-default",
+      "color": "#e3e5db",
+      "depth": 14,
+      "font": "22px 700",
+      "tag": "h4",
+      "text": "Quick Links"
+    },
+    {
+      "box": {
+        "h": 350,
+        "w": 340,
+        "x": 604,
+        "y": 5531
+      },
+      "class": "elementor-icon-list-items",
+      "color": "#24140f",
+      "depth": 14,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5531
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/morocco-tour-finder/",
+      "tag": "a",
+      "text": "MOROCCO TOUR PACKAGES"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5571
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/morocco-travel-guide/",
+      "tag": "a",
+      "text": "MOROCCO TRAVEL GUIDE"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5612
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/about",
+      "tag": "a",
+      "text": "ABOUT US"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5653
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/how-we-work/",
+      "tag": "a",
+      "text": "HOW WE WORK"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5693
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/faq",
+      "tag": "a",
+      "text": "FAQ"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5734
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/blog/",
+      "tag": "a",
+      "text": "ROAMING CAMELS BLOG"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5774
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/how-we-work/#",
+      "tag": "a",
+      "text": "TERMS & CONDITIONS"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5815
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/privacy-policy/",
+      "tag": "a",
+      "text": "PRIVACY POLICY"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 340,
+        "x": 604,
+        "y": 5856
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "16px 300",
+      "href": "https://roamingcamelsmorocco.com/contact/",
+      "tag": "a",
+      "text": "CONTACT US"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 329,
+        "x": 969,
+        "y": 5517
+      },
+      "class": "elementor-icon-list-items",
+      "color": "#24140f",
+      "depth": 14,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 329,
+        "x": 969,
+        "y": 5517
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "15px 300",
+      "href": "tel:+212661053623",
+      "tag": "a",
+      "text": "+ 212 6 61 05 36 23"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 329,
+        "x": 969,
+        "y": 5577
+      },
+      "class": "elementor-icon-list-items",
+      "color": "#24140f",
+      "depth": 14,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 329,
+        "x": 969,
+        "y": 5577
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "15px 300",
+      "href": "mailto:%20hello@roamingcamelsmorocco.com",
+      "tag": "a",
+      "text": "hello@roamingcamelsmorocco.com"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 329,
+        "x": 969,
+        "y": 5638
+      },
+      "class": "elementor-icon-list-items",
+      "color": "#24140f",
+      "depth": 14,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 329,
+        "x": 969,
+        "y": 5638
+      },
+      "color": "#24140f",
+      "depth": 16,
+      "font": "15px 300",
+      "href": "https://wa.me/+212661053623",
+      "tag": "a",
+      "text": "+212 6 61 05 36 23"
+    },
+    {
+      "box": {
+        "h": 256,
+        "w": 329,
+        "x": 969,
+        "y": 5699
+      },
+      "class": "elementor-icon-list-items",
+      "color": "#24140f",
+      "depth": 14,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "background": "#404d72",
+      "box": {
+        "h": 75,
+        "w": 1425,
+        "x": 0,
+        "y": 6015
+      },
+      "class": "elementor-section elementor-top-section elementor-element elementor-element-fdc5686 elementor-section-full_width element",
+      "color": "#24140f",
+      "depth": 4,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 532,
+        "x": 20,
+        "y": 6047
+      },
+      "color": "#e3e5db",
+      "depth": 10,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "© 2016-2026 ROAMING CAMELS MOROCCO"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 555,
+        "x": 855,
+        "y": 6047
+      },
+      "color": "#e3e5db",
+      "depth": 10,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "SITE DESIGN BY HAPPILY HAFSA"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 90,
+        "x": 1320,
+        "y": 6051
+      },
+      "color": "#e2e5db",
+      "depth": 12,
+      "font": "12px 400",
+      "href": "https://www.happilyhafsa.com/websites/",
+      "tag": "a",
+      "text": "HAPPILY HAFSA"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1371,
+        "y": 1034
+      },
+      "color": "#404d72",
+      "depth": 4,
+      "font": "16px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1387,
+        "y": 1002
+      },
+      "color": "#404d72",
+      "depth": 4,
+      "font": "16px 200",
+      "tag": "svg"
+    }
+  ],
+  "page": {
+    "h": 6090,
+    "w": 1425
+  },
+  "text": "Skip to content HOME MOROCCO TOURS TRAVEL GUIDE QUICK LINKS CONTACT US How We Work Being Easy To Work With Is One Of Our Core Pillars In today’s travel world there is so much to consider that it can quickly become overwhelming. With all our experience and skill in planning Morocco travel, you should not have to work hard to get the trip you are looking for. We know Morocco and we are very experienced in travelling around the country, with years of on the ground experience, and a keen ear to guest feedback, you can confidently leave the details to us. READY TO BOOK? First Steps When you are coming to Morocco there are a few basic details that we need to settle right from the start. We need to plan the most efficient route for you, as well as making sure that you have time to enjoy the sights, while making good progress. We want to learn about your travel style, whether you are coming to Morocco for a custom luxury tour, or you are hoping for a more budget friendly experience. And we want to know where you are coming from and going to. The first steps in the planning process are to learn from you: How many days and nights you are visiting us; What airport you will arrive to and depart from (and approximate times if you know from the start); How many people in your group and how old are the children if you have them; How many rooms will you need; What sort of hotels are you interested in? 1. Luxury 5 star hotels 2. Premium 4 star hotels with some amenities and a bit more comfort 3. Comfort 3 star hotels that offer clean rooms and basic amenities Once we know these basic details we will put together an itinerary for you to review, with pricing, and hotel recommendations. What's Included Another core value of our business is transparency. Below we outline exactly what is and isn’t included in your tour package. We don’t believe in adding surprise charges to your bill once you’re here travelling with us in Morocco. The goal, always, is to help you enjoy the magic of Morocco without feeling stressed or anxious. What's Included In Your Tour Package: AIRPORT TO AIRPORT SERVICE All of our tours start and end at the airport so you don’t need to worry about a thing. We will meet you at the airport and make sure you get back in time for your departure. TOUR LEADER Most of our trips are led by either an English speaking driver, or a driver and an English speaking National Guide who is fully licensed for guiding in Morocco. Typically we offer a guide for groups of 4 people or more, but we are happy to offer the services of a guide to couples as well. ACCOMMODATIONS We include all hotels in your package (unless you request that we don’t). Hotels are based on your budget and availability. We use only clean, local and authentic properties that are well reviewed and with whom we have a positive relationship. MEALS Your tour includes all breakfasts during your trip, and some dinners. Typically your dinners are included in the south of Morocco, this is because there are not any local options to choose from in many of the more remote locations. In large centres and for all lunches, your tour leader will be sure that you stop at clean, well reviewed and known restaurants for your meals. You will often have choices in the evening on the style of dining you’d prefer and at lunch the stops are often based around the progress of your day. If there is a restaurant that we prefer for it’s cuisine or experience, we will always choose to take you there so that you have a variety of experiences. We are able to accommodate vegetarian and gluten free diets. Vegan diets may be restricted outside the major centres. What's Not Included AIRFARE TRAVEL INSURANCE TIPPING How To Book & Pay In order to secure your dates, we require a non-refundable small deposit of $550 USD to book. This can be paid by secure credit card link through an invoice. The balance is due in full 30 days in advance of your arrival date. We are happy to issue multiple invoices if you are friends travelling together. We will send you an invoice (less the deposit). There is a 5% service fee for credit card payment and we also accept bank transfers or a wire transfers to our US dollar account to our Canadian bank. TOUR FINDER STAY IN THE KNOW Join Our Newsletter For All The Latest On Morocco Travel JOIN THE LIST ROAMING CAMELS MOROCCO IS OWNED AND OPERATED BY A HIGHLY RESPECTED NATIVE AMAZIGH GUIDE WHO HAS YEARS OF EXPERIENCE LEADING TOURS OF ALL KINDS. TRUST US TO SHOW YOU THE BEST FOR PRIVATE TOURS IN MOROCCO. Let's Connect Quick Links MOROCCO TOUR PACKAGES MOROCCO TRAVEL GUIDE ABOUT US HOW WE WORK FAQ ROAMING CAMELS BLOG TERMS & CONDITIONS PRIVACY POLICY CONTACT US PHONE + 212 6 61 05 36 23 EMAIL hello@roamingcamelsmorocco.com CONTACT US ON WHATSAPP +212 6 61 05 36 23 ADDRESS Agence de Voyage Roaming Camels Morocco Tours Hay Mohammadi Sud, Unit 2, Bloc 41, No. 589 Daoudiat, Marrakech I.C.E: 003389632000018 RC N° : 142205 Fixe: +212 (0) 524 301 729 Toronto: 299 Thirtieth St. Etobicoke, ON M8W 3E4 | 1-647-904-6540 © 2016-2026 ROAMING CAMELS MOROCCO SITE DESIGN BY HAPPILY HAFSA",
+  "title": "How We Work - Roaming Camels Morocco",
+  "unreadable_stylesheets": 1,
+  "url": "https://roamingcamelsmorocco.com/how-we-work/",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}
