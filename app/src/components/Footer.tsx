@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Phone, Mail, MessageCircle, MapPin, CheckCircle, Instagram, Shield } from 'lucide-react';
+import { Phone, Mail, MessageCircle, MapPin, CheckCircle, Instagram } from 'lucide-react';
 import { getSiteConfig, SiteConfig } from '../data/siteConfig';
 
 export const Footer: React.FC = () => {
@@ -170,12 +170,6 @@ export const Footer: React.FC = () => {
                 </a>
               </li>
               <li>
-                <a href="/admin/" className="text-palette-sand hover:text-palette-gold transition-colors font-medium flex items-center space-x-1">
-                  <Shield className="w-3 h-3 inline" />
-                  <span>ADMIN DASHBOARD</span>
-                </a>
-              </li>
-              <li>
                 <a href="/#quote-form" className="hover:text-palette-gold transition-colors">
                   CONTACT US
                 </a>
@@ -286,10 +280,6 @@ export const Footer: React.FC = () => {
         <div className="max-w-[1290px] mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
           <p>© 2016-2026 ROAMING CAMELS MOROCCO. ALL RIGHTS RESERVED. OPERATED BY {siteConfig.ownerName.toUpperCase()}.</p>
           <div className="flex items-center space-x-4">
-            <a href="/admin/" className="text-palette-sand/80 hover:text-palette-gold transition-colors flex items-center space-x-1">
-              <Shield className="w-3 h-3" />
-              <span>Admin Login</span>
-            </a>
             <span className="tracking-widest uppercase">MOROCCO</span>
           </div>
         </div>

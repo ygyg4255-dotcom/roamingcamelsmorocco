@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, ChevronDown, ChevronRight, Phone, Mail, MessageCircle, Settings } from 'lucide-react';
+import { Menu, X, ChevronDown, ChevronRight, Phone, Mail, MessageCircle } from 'lucide-react';
 import { getSiteConfig, SiteConfig } from '../data/siteConfig';
 
 interface NavbarProps {
@@ -54,7 +54,6 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPath = '/', onOpenQuote }
     { label: 'How We Work', href: '/how-we-work/' },
     { label: 'FAQ', href: '/faq/' },
     { label: 'Blog', href: '/morocco-travel-guide/' },
-    { label: 'Admin Dashboard', href: '/admin/' },
   ];
 
   return (
@@ -300,13 +299,6 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPath = '/', onOpenQuote }
                       onClick={() => setMobileMenuOpen(false)}
                     >
                       Blog
-                    </a>
-                    <a
-                      href="/admin/"
-                      className="block py-1.5 text-palette-sand hover:text-palette-gold font-medium"
-                      onClick={() => setMobileMenuOpen(false)}
-                    >
-                      Admin Dashboard
                     </a>
                     <a
                       href="/#quote-form"

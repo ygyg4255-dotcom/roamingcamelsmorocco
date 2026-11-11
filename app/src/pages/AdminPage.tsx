@@ -34,12 +34,19 @@ export const AdminPage: React.FC = () => {
   // Authentication State
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => {
     if (typeof window !== 'undefined') {
-      return sessionStorage.getItem('rcm_admin_auth') === 'true';
+      return sessionStorage.getItem('rcm_admin_auth') === 'true' && Boolean(sessionStorage.getItem('rcm_admin_token'));
     }
     return false;
   });
+  const [authToken, setAuthToken] = useState<string>(() => {
+    if (typeof window !== 'undefined') {
+      return sessionStorage.getItem('rcm_admin_token') || '';
+    }
+    return '';
+  });
   const [passwordInput, setPasswordInput] = useState('');
   const [loginError, setLoginError] = useState(false);
+  const [isLoggingIn, setIsLoggingIn] = useState(false);
 
   // Active Tab: 'tours' | 'contact'
   const [activeTab, setActiveTab] = useState<'tours' | 'contact'>('tours');
@@ -80,70 +87,128 @@ export const AdminPage: React.FC = () => {
     setTimeout(() => setToastMessage(null), 4000);
   };
 
-  // Handle Login
-  const handleLogin = (e: React.FormEvent) => {
+  // Handle Login via Serverless Authentication API
+  const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (passwordInput === 'admin123') {
-      setIsAuthenticated(true);
-      sessionStorage.setItem('rcm_admin_auth', 'true');
-      setLoginError(false);
-    } else {
+    if (!passwordInput.trim()) return;
+
+    setIsLoggingIn(true);
+    setLoginError(false);
+
+    try {
+      const res = await fetch('/api/verify-admin', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password: passwordInput.trim() }),
+      });
+
+      const data = await res.json().catch(() => ({}));
+
+      if (res.ok && data.valid) {
+        setIsAuthenticated(true);
+        setAuthToken(passwordInput.trim());
+        sessionStorage.setItem('rcm_admin_auth', 'true');
+        sessionStorage.setItem('rcm_admin_token', passwordInput.trim());
+        setLoginError(false);
+        showToast('✓ Admin authentication verified successfully!', 'success');
+      } else {
+        setLoginError(true);
+      }
+    } catch (err) {
+      console.error('Admin authentication error:', err);
       setLoginError(true);
+    } finally {
+      setIsLoggingIn(false);
     }
   };
 
   const handleLogout = () => {
     setIsAuthenticated(false);
+    setAuthToken('');
     sessionStorage.removeItem('rcm_admin_auth');
+    sessionStorage.removeItem('rcm_admin_token');
     setPasswordInput('');
   };
 
-  // Persist Tours to LocalStorage & Vite Disk API
+  // Persist Tours to LocalStorage & Remote Serverless / Vite Disk API
   const handleSaveToursToDisk = async (toursToSave: Tour[] = tours) => {
     setIsSavingDisk(true);
     // 1. Save to LocalStorage immediately
     saveToursData(toursToSave);
 
-    // 2. Send to Vite dev server middleware to write to src/data/tours.ts
+    const token = authToken || sessionStorage.getItem('rcm_admin_token') || '';
+
+    // 2. Send to API with Authorization header
     try {
       const res = await fetch('/api/save-tours', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
         body: JSON.stringify(toursToSave),
       });
+
+      if (res.status === 401) {
+        showToast('Session expired or unauthorized. Please re-login.', 'error');
+        handleLogout();
+        return;
+      }
+
       if (res.ok) {
-        showToast('✓ Tours saved to disk and updated across all site pages!');
+        const data = await res.json().catch(() => ({}));
+        if (data.committedToGithub) {
+          showToast('✓ Saved & committed to GitHub! Live site is auto-updating.', 'success');
+        } else {
+          showToast('✓ Tours saved to disk and updated across all site pages!', 'success');
+        }
       } else {
-        showToast('✓ Saved to browser storage (Dev API not reachable in static mode)', 'success');
+        showToast('✓ Saved to browser storage (Remote API not available in static preview)', 'success');
       }
     } catch (err) {
-      // In static preview / production build where Vite dev server middleware isn't present
-      showToast('✓ Saved to localStorage (Live across all client sessions)', 'success');
+      showToast('✓ Saved to localStorage (Live across your browser sessions)', 'success');
     } finally {
       setIsSavingDisk(false);
     }
   };
 
-  // Persist Contact Config to LocalStorage & Vite Disk API
+  // Persist Contact Config to LocalStorage & Remote Serverless / Vite Disk API
   const handleSaveConfigToDisk = async () => {
     setIsSavingDisk(true);
     // 1. Save to LocalStorage immediately
     saveSiteConfig(config);
 
-    // 2. Send to Vite dev server middleware to write to src/data/siteConfig.ts
+    const token = authToken || sessionStorage.getItem('rcm_admin_token') || '';
+
+    // 2. Send to API with Authorization header
     try {
       const res = await fetch('/api/save-config', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
         body: JSON.stringify(config),
       });
+
+      if (res.status === 401) {
+        showToast('Session expired or unauthorized. Please re-login.', 'error');
+        handleLogout();
+        return;
+      }
+
       if (res.ok) {
-        showToast('✓ Contact info saved to disk and updated across all site pages!');
+        const data = await res.json().catch(() => ({}));
+        if (data.committedToGithub) {
+          showToast('✓ Contact info committed to GitHub! Live site is auto-updating.', 'success');
+        } else {
+          showToast('✓ Contact info saved to disk and updated across all site pages!', 'success');
+        }
       } else {
-        showToast('✓ Saved to browser storage (Dev API not reachable in static mode)', 'success');
+        showToast('✓ Saved to browser storage (Remote API not available in static preview)', 'success');
       }
     } catch (err) {
-      showToast('✓ Saved to localStorage (Live across all client sessions)', 'success');
+      showToast('✓ Saved to localStorage (Live across your browser sessions)', 'success');
     } finally {
       setIsSavingDisk(false);
     }
@@ -319,27 +384,29 @@ export const AdminPage: React.FC = () => {
               <input
                 type="password"
                 required
+                disabled={isLoggingIn}
                 value={passwordInput}
                 onChange={(e) => {
                   setPasswordInput(e.target.value);
                   setLoginError(false);
                 }}
-                placeholder="Enter password (default: admin123)"
-                className="w-full px-4 py-3 border border-gray-300 rounded-sm text-sm focus:outline-none focus:border-palette-navy focus:ring-1 focus:ring-palette-navy"
+                placeholder="Enter admin password"
+                className="w-full px-4 py-3 border border-gray-300 rounded-sm text-sm focus:outline-none focus:border-palette-navy focus:ring-1 focus:ring-palette-navy disabled:bg-gray-100"
               />
               {loginError && (
                 <p className="text-xs text-red-600 mt-2 flex items-center space-x-1">
                   <AlertCircle className="w-4 h-4 inline mr-1" />
-                  <span>Incorrect password. Default is: admin123</span>
+                  <span>Invalid admin password. Please try again.</span>
                 </p>
               )}
             </div>
 
             <button
               type="submit"
-              className="w-full py-3 bg-palette-navy hover:bg-palette-dark text-white text-xs uppercase tracking-widest font-semibold rounded-sm transition-colors shadow"
+              disabled={isLoggingIn}
+              className="w-full py-3 bg-palette-navy hover:bg-palette-dark text-white text-xs uppercase tracking-widest font-semibold rounded-sm transition-colors shadow disabled:opacity-50"
             >
-              Log In To Dashboard
+              {isLoggingIn ? 'Verifying Credentials...' : 'Log In To Dashboard'}
             </button>
 
             <div className="pt-2 text-center">
@@ -712,7 +779,7 @@ export const AdminPage: React.FC = () => {
                   type="text"
                   value={config.ownerName}
                   onChange={(e) => setConfig({ ...config, ownerName: e.target.value })}
-                  placeholder="Mohammed El Kouih"
+                  placeholder="Full Name"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
@@ -726,7 +793,7 @@ export const AdminPage: React.FC = () => {
                   type="email"
                   value={config.email}
                   onChange={(e) => setConfig({ ...config, email: e.target.value })}
-                  placeholder="mohammedlakouaihi000@gmail.com"
+                  placeholder="contact@example.com"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
@@ -740,7 +807,7 @@ export const AdminPage: React.FC = () => {
                   type="text"
                   value={config.phoneLocal}
                   onChange={(e) => setConfig({ ...config, phoneLocal: e.target.value })}
-                  placeholder="0659307677"
+                  placeholder="06XXXXXXXX"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
@@ -754,7 +821,7 @@ export const AdminPage: React.FC = () => {
                   type="text"
                   value={config.phoneIntl}
                   onChange={(e) => setConfig({ ...config, phoneIntl: e.target.value })}
-                  placeholder="+212 659-307677"
+                  placeholder="+212 6XX-XXXXXX"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
@@ -768,7 +835,7 @@ export const AdminPage: React.FC = () => {
                   type="text"
                   value={config.whatsappLink}
                   onChange={(e) => setConfig({ ...config, whatsappLink: e.target.value })}
-                  placeholder="https://wa.me/212659307677"
+                  placeholder="https://wa.me/2126XXXXXXXX"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
@@ -782,7 +849,7 @@ export const AdminPage: React.FC = () => {
                   type="text"
                   value={config.phoneTel}
                   onChange={(e) => setConfig({ ...config, phoneTel: e.target.value })}
-                  placeholder="+212659307677"
+                  placeholder="+2126XXXXXXXX"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
@@ -796,7 +863,7 @@ export const AdminPage: React.FC = () => {
                   type="text"
                   value={config.instagramUsername}
                   onChange={(e) => setConfig({ ...config, instagramUsername: e.target.value })}
-                  placeholder="@_mohammed____cb"
+                  placeholder="@username"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
@@ -810,7 +877,7 @@ export const AdminPage: React.FC = () => {
                   type="text"
                   value={config.instagramUrl}
                   onChange={(e) => setConfig({ ...config, instagramUrl: e.target.value })}
-                  placeholder="https://www.instagram.com/_mohammed____cb/"
+                  placeholder="https://www.instagram.com/username/"
                   className="w-full px-3.5 py-2.5 border border-gray-300 rounded text-xs focus:outline-none focus:border-palette-navy"
                 />
               </div>
