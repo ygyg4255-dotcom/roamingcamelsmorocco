@@ -2,3 +2,8 @@ node_modules/
 
 # Local settings file containing an API key — never commit
 capture/routes/about/ison
+
+# Agent/session logs
+agent-session.jsonl
+build-activity.log
+transcript.json
