@@ -43,8 +43,9 @@ export async function parseBody<T = any>(req: ExtendedRequest): Promise<T> {
 }
 
 export function sendJson(res: ExtendedResponse, status: number, data: any): void {
-  if (typeof res.status === 'function' && typeof res.json === 'function') {
-    res.status(status).json(data);
+  const anyRes = res as any;
+  if (typeof anyRes.status === 'function' && typeof anyRes.json === 'function') {
+    anyRes.status(status).json(data);
     return;
   }
   res.statusCode = status;
